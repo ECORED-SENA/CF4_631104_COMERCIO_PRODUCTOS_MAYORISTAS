@@ -4,14 +4,14 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
     .titulo-principal.color-acento-botones
       .titulo-principal__numero.colr_1
-        span 2
-      h1 Etiqueta empresarial
+        span 4
+      h1 Atención al cliente
 
 </template>
 
 <script>
 export default {
-  name: 'Tema2',
+  name: 'Tema4',
   data: () => ({
     // variables de vue
   }),
