@@ -109,6 +109,8 @@
     color: #F27B58
   &_3
     color: #4A2EFC
+  &_4
+    color: #00E7BF !important
 .bgr
   background-color: #D1CAFE
   &_2
@@ -219,6 +221,73 @@
     background-color: #F3FFFD
   &_27
     background-color: #F8BCAB
+  &_28
+    background-color: #ACFFF0
+    border-radius: 10px
+  &_29
+    background-color: #F2FFFD
+    border-radius: 10px
+  &_30
+    background-color: #F6F6F6
+    border-radius: 10px
+  &_31
+    background-color: #E9E5FF
+    border-radius: 10px
+    .slyder-a__btn--atrs
+      background-color: #4A2EFC
+      background-image: url("../assets/componentes/arrow1.svg") 
+    .slyder-a__btn--sigt
+      background-color: #4A2EFC
+      background-image: url("../assets/componentes/arrow1.svg")
+    .slyder-a__bullets__item--active
+      background-color: #4A2EFC !important
+      border-color: #4A2EFC 
+    .slyder-a__bullets__item
+      background-color: #AFA0FF
+  &_32
+    background-color: #FFE14C
+  &_33
+    background-color: #BAF2E9
+  &_34
+    background-color: #F5CDC2
+  &_35
+    background-color: #D3F9F2
+  &_36
+    background-color: #FFAD95
+    border-radius: 10px
+  &_37
+    background-color: #EDFFFD
+    border-radius: 10px
+    transition: transform .3s ease-in-out
+    &:hover
+      background-color: #BFFFF3
+      transform: scale(1.1)
+      transform: translateY(-30px)
+  &_38
+    background-color: #D8FCF5
+    border-radius: 10px
+    .slyder-a__btn--atrs
+      background-color: #009E83
+      background-image: url("../assets/componentes/arrow1.svg") 
+    .slyder-a__btn--sigt
+      background-color: #009E83
+      background-image: url("../assets/componentes/arrow1.svg")
+    .slyder-a__bullets__item--active
+      background-color: #009E83 !important
+      border-color: #009E83 
+    .slyder-a__bullets__item
+      background-color: #A4E6DA
+  &_39
+    background-color: #EDFFFD
+    &:hover
+      background-color: #BFFFF3
+  &_40
+    background-color: #F6F6F6
+  &_41
+    background-color: #DBFFFA
+    &:hover
+      background-color: #00E7BF
+ 
 .bg_grad-01
   position: relative
   .row
@@ -282,6 +351,81 @@
     width: 20%;
     height: 98px;
     background: #FFF4BF
+    background-repeat: no-repeat
+    background-size: contain
+    @media screen and (max-width: 992px)
+      top: -23px
+      left: 0px
+      width: 38%
+      height: 96px
+    @media screen and (max-width: 420px)
+      width: 41%
+      height: 14%
+      left: 0
+      top: -16px
+.bg_grad-04
+  position: relative
+  p
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    margin: 0
+    top: 0;
+    left: 0;
+    width: 20%;
+    height: 98px;
+    background: #FFF4BF
+    background-repeat: no-repeat
+    background-size: contain
+    @media screen and (max-width: 992px)
+      top: -23px
+      left: 0px
+      width: 38%
+      height: 96px
+    @media screen and (max-width: 420px)
+      width: 41%
+      height: 14%
+      left: 0
+      top: -16px
+.bg_grad-05
+  position: relative
+  p
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    margin: 0
+    top: 0;
+    left: 0;
+    width: 20%;
+    height: 98px;
+    background: #FFF4BF
+    background-repeat: no-repeat
+    background-size: contain
+    @media screen and (max-width: 992px)
+      top: -23px
+      left: 0px
+      width: 38%
+      height: 96px
+    @media screen and (max-width: 420px)
+      width: 41%
+      height: 14%
+      left: 0
+      top: -16px
+.bg_grad-06
+  position: relative
+  p
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    margin: 0
+    top: 0;
+    left: 0;
+    width: 20%;
+    height: 98px;
+    background: #D3F9F2
     background-repeat: no-repeat
     background-size: contain
     @media screen and (max-width: 992px)
@@ -420,6 +564,13 @@
     margin-top: 24px
   &_12
     width: 68%
+  &_13
+    top: 30px !important
+  &_14
+    transition: transform .3s ease-in-out
+    &:hover
+      transform: scale(1.1)
+      transform: translateY(-30px)
 //TARJETA UP TEMA 1//
 .tarjetas-up
   overflow: hidden
@@ -462,4 +613,32 @@
     background-color: #F6F6F6
     padding: 2px 6px 5px;
     border-top: solid 7px #00E7BF
-    
+  &_3
+    color: #12263F
+    background-color: #A496FD
+    padding: 2px 6px 5px;
+    margin-right: 5px;
+  &_4
+    color: #12263F
+    background-color: #F59C82
+    padding: 2px 6px 5px;
+    margin-right: 5px;
+  &_5
+    color: #12263F
+    background-color: #FFDF40
+    padding: 2px 6px 5px;
+    margin-right: 5px;
+  &_6
+    color: #12263F
+    background-color: #ACFFF0
+    padding: 2px 6px 5px;
+    margin-right: 5px;
+  &_7
+    color: #12263F
+    background-color: #00E7BF
+    padding: 2px 6px 5px;
+    margin-right: 5px;
+.img-infografica__item
+  width: 4.5%
+.img-infografica__card
+  width: 515px
