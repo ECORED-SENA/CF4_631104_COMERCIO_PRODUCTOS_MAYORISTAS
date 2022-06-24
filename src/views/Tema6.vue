@@ -7,24 +7,24 @@
         span 6
       h1 Ventas
     
-    p.mb-5 La venta en sí misma es una transacción entre dos agentes económicos, es un proceso voluntario donde una empresa o persona ofrece de manera legal productos a otra denominada cliente potencial, buscando que esta pague el precio esperado. De acuerdo con esto, para que se realice una venta debe asegurarse: i. la participación de dos roles (comprador y vendedor), ii. un producto y iii. un valor de intercambio (precio); sin embargo, para realizarla de manera adecuada e influenciar el éxito de la misma, las ventas deben verse de forma integral. Por ello, se han definido tres momentos secuenciales: preventa, venta y postventa, en los cuales se desarrolla el ciclo comercial:
+    p.mb-5 <b>La venta en sí misma es una transacción entre dos agentes económicos, es un proceso voluntario donde una empresa o persona ofrece de manera legal productos a otra denominada cliente potencial</b>, buscando que esta pague el precio esperado. De acuerdo con esto, para que se realice una venta debe asegurarse: i. la participación de dos roles (comprador y vendedor), ii. un producto y iii. un valor de intercambio (precio); sin embargo, para realizarla de manera adecuada e influenciar el éxito de la misma, las ventas deben verse de forma integral. Por ello, se han definido tres momentos secuenciales: preventa, venta y postventa, en los cuales se desarrolla el ciclo comercial:
 
     .row.mb-5.justify-content-center
-      .col-12.col-md-3
+      .col-12.col-md-3.mb-3.mb-md-0
         figure
           img(src='@/assets/curso/tema6/t6-1.svg', alt='Texto que describa la imagen')
       .col-12.col-md-7.d-flex.align-items-center
         .tarjeta.bgr_19.p-2.p-md-4.mb-5
           SlyderA(tipo="b")
-            .row.p-3
+            .row
               .col-md-12.px-4
                 span.mb-0.text-bold Venta
                 p Es el más grande momento de verdad, es decir, allí se tiene el contacto con el cliente (a través de cualquier medio presencial o virtual), se realiza la presentación del portafolio a ofrecer, se resuelve sus inquietudes y se espera que el vendedor llegue al objetivo de esta etapa: el cierre de la venta, es decir, cuando el cliente acepta adquirir el bien/servicio. En la venta se aplican las técnicas de ventas, se debaten objeciones se implementan modelos de negociación según como se vaya desarrollando el proceso y se realizan todos los esfuerzos comerciales para que el prospecto diga “sí” voy a comprar el producto.
-            .row.p-3
+            .row
               .col-md-12.px-4
                 span.mb-0.text-bold Preventa
                 p Es el momento previo a la venta. En esta etapa el vendedor define quiénes son sus clientes potenciales, de allí extrae aquellos con mayor probabilidad de éxito (llamados clientes prospectos), los contacta, genera el acercamiento, detecta su necesidad y prepara el tipo de oferta (portafolio) a presentar. Una buena preventa tiene gran componente de trabajo previo al contacto con el cliente prospecto, dado que se debe tener buen conocimiento del portafolio de productos, se debe investigar sobre el perfil del cliente y se debe propender por generar un acercamiento muy asertivo y respetuoso.
-            .row.p-3
+            .row
               .col-md-12.px-4
                 span.mb-0.text-bold Postventa
                 p Es la última etapa del proceso comercial, pero no la menos importante. En este momento del ciclo es donde se crean verdaderos vínculos con el cliente, fidelizarlo e incluso convertirlo en apóstol de la empresa (es decir, aspirar a que el cliente que no solo compre, sino que también recomiende a terceros la marca o producto. Si bien esta fase ha estado atribuida más al proceso de servicio al cliente, todos los puntos de contactos son importantes para generar una experiencia positiva con el cliente después de haber realizado la compra.
@@ -37,7 +37,7 @@
       .h2 6.1  Tipos
 
     .row.mb-5
-      .col-12.col-md-8
+      .col-12.col-md-8.mb-3.mb-md-0
         p Existen diferentes tipos de ventas; sin embargo, para un vendedor de ventas mayoristas es importante conocer dos tipologías, la clasificación asociada al medio por el cual se realizan y las ventas según el tipo de cliente al cual se realiza la venta.
         p.mb-0.text-bold Tipos de ventas según el medio
         p.mb-0 según el medio a través del cual se realice la venta se encuentran: las ventas presenciales, que son aquellas que se realizan con presencia física del vendedor, son las llamadas ventas tradicionales; ventas telefónicas, son aquellas que se hacen a través de los call center (centros de llamadas) y las ventas en canales digitales, que son aquellas que se realizan a través de plataformas tecnológicas, tales como redes sociales, <em>marketplace</em> (tiendas virtuales) o <em>bot</em> (robots).
@@ -91,7 +91,7 @@
       .h2 6.2 Técnicas
 
     .row.mb-5
-      .col-12.col-md-8
+      .col-12.col-md-8.mb-3.mb-md-0
         p Existen muchos tipos de técnicas de ventas, no hay una mejor que otra, ya que la selección de la más idónea a utilizar debe realizarse teniendo en cuenta cómo es el modelo comercial de la empresa, con qué tipo de clientes se está tratando y cuál es el tipo de portafolio a ofrecer. Las técnicas con mayor usabilidad en el mercado son:
         p.mb-0.text-bold Técnica de características, beneficios y ventajas
         p.mb-0 Este modelo conocido como CBV en español o FAB (features, advantages and benefits en inglés), es conocido por ser una de las técnicas más sencillas y más prácticas. Dicho modelo consiste en aplicar con el cliente cada una de las variables del acrónimo, ya que de esta manera podrá dar el vendedor un panorama muy amplio, iniciando con el producto y terminando con la descripción de las necesidades que satisface, a continuación se muestran algunos elementos importantes en este modelo.
@@ -101,30 +101,30 @@
   
     .row.mb-5.justify-content-center(data-aos="zoom-in-up")
       .col-12.col-md-10
-        .row.justify-center
+        .row
           hr.modif_11
           .col-12.col-lg-1.mb-3.mb-lg-0.align-items-center
-             figure.justify-center
+             figure.d-flex.justify-content-center
               img.img90(src='@/assets/curso/tema6/t6-4.svg' alt='AvatarTop')
           .col-12.col-lg-11.d-flex.align-items-center
             p.mb-0 En las características se describe el bien o servicio que se está ofreciendo, aquí se da respuesta al qué.
-        .row.justify-center
+        .row
           hr.modif_11
           .col-12.col-lg-1.mb-3.mb-lg-0.align-items-center
-             figure.justify-center
+             figure.d-flex.justify-content-center
               img.img90(src='@/assets/curso/tema6/t6-5.svg' alt='AvatarTop')
           .col-12.col-lg-11.d-flex.align-items-center
             p.mb-0 En las ventajas, consiste en narrar (o demostrar si es posible), siempre desde preceptos éticos, porque el producto que se está ofreciendo es mejor que otras opciones que existen en el mercado, se responde al “por qué es mejor”.
-        .row.justify-center
+        .row
           hr.modif_11
           .col-12.col-lg-1.mb-3.mb-lg-0.align-items-center
-             figure.justify-center
+             figure.d-flex.justify-content-center
               img.img90(src='@/assets/curso/tema6/t6-6.svg' alt='AvatarTop')
           .col-12.col-lg-11.d-flex.align-items-center
             p.mb-0 En beneficios, el interrogante a resolver es el para qué, es decir, qué es aquello (tangible o intangible) que obtendrá la persona o empresa que adquiera el producto .
 
     .row.mb-5.justify-content-center
-      .col-12.col-md-3
+      .col-12.col-md-3.mb-3.mb-md-0
         figure
           img(src='@/assets/curso/tema6/t6-7.svg' alt='AvatarTop')
       .col-12.col-md-7
@@ -158,31 +158,31 @@
     
     .row.mb-5.justify-content-center(data-aos="zoom-in-up")
       .col-12.col-md-10
-        .row.justify-center
+        .row
           hr.modif_11
           .col-12.col-lg-1.mb-3.mb-lg-0.align-items-center
-             figure.justify-center
+             figure.d-flex.justify-content-center
               img.img90(src='@/assets/curso/tema6/t6-9.svg' alt='AvatarTop')
           .col-12.col-lg-11.d-flex.align-items-center
             p.mb-0 En la atención se deben realizar las tácticas o actividades necesarias para lograr que la marca y el producto sean visibles para el cliente potencial. Acá, la clave es la comunicación, es decir, sentar las condiciones para que se cree el canal con el prospecto.
-        .row.justify-center
+        .row
           hr.modif_11
           .col-12.col-lg-1.mb-3.mb-lg-0.align-items-center
-             figure.justify-center
+             figure.d-flex.justify-content-center
               img.img90(src='@/assets/curso/tema6/t6-10.svg' alt='AvatarTop')
           .col-12.col-lg-11.d-flex.align-items-center
             p.mb-0 En el interés, el objetivo es despertar en el cliente potencial la conciencia sobre el producto que se está ofreciendo, que él quiera saber más.
-        .row.justify-center
+        .row
           hr.modif_11
           .col-12.col-lg-1.mb-3.mb-lg-0.align-items-center
-             figure.justify-center
+             figure.d-flex.justify-content-center
               img.img90(src='@/assets/curso/tema6/t6-11.svg' alt='AvatarTop')
           .col-12.col-lg-11.d-flex.align-items-center
             p.mb-0 En el deseo, el reto del vendedor se centra en convertir en necesario y/o aspiracional el producto, alentar al cliente a que quiera adquirir el portafolio que se está ofreciendo.
-        .row.justify-center
+        .row
           hr.modif_11
           .col-12.col-lg-1.mb-3.mb-lg-0.align-items-center
-             figure.justify-center
+             figure.d-flex.justify-content-center
               img.img90(src='@/assets/curso/tema6/t6-12.svg' alt='AvatarTop')
           .col-12.col-lg-11.d-flex.align-items-center
             p.mb-0 En la acción, es concretar el proceso, es decir, lograr el cierre de la venta, hacer que el receptor del mensaje (nuestro cliente prospecto) haga lo que espera el vendedor, que no es má s que comprar el producto.
@@ -235,31 +235,31 @@
 
     .row.mb-5.justify-content-center(data-aos="zoom-in-up")
       .col-12.col-md-10
-        .row.justify-center
+        .row
           hr.modif_11
           .col-12.col-lg-1.mb-3.mb-lg-0.align-items-center
-             figure.justify-center
+             figure.d-flex.justify-content-center
               img.img90(src='@/assets/curso/tema6/t6-14.svg' alt='AvatarTop')
           .col-12.col-lg-11.d-flex.align-items-center
             p.mb-0 <b>En la situación:</b> se debe obtener información del cliente para determinar las condiciones que lo rodean.
-        .row.justify-center
+        .row
           hr.modif_11
           .col-12.col-lg-1.mb-3.mb-lg-0.align-items-center
-             figure.justify-center
+             figure.d-flex.justify-content-center
               img.img90(src='@/assets/curso/tema6/t6-15.svg' alt='AvatarTop')
           .col-12.col-lg-11.d-flex.align-items-center
             p.mb-0 <b>En el problema:</b> el centro de este momento es identificar cuál es la dificultad que el cliente afronta, es decir, cuál es la situación que está presentando.
-        .row.justify-center
+        .row
           hr.modif_11
           .col-12.col-lg-1.mb-3.mb-lg-0.align-items-center
-             figure.justify-center
+             figure.d-flex.justify-content-center
               img.img90(src='@/assets/curso/tema6/t6-16.svg' alt='AvatarTop')
           .col-12.col-lg-11.d-flex.align-items-center
             p.mb-0 <b>En la implicación:</b> el foco de este momento es indagar sobre la importancia que tiene para el cliente este acontecimiento, qué pasa si se resuelve y qué efectos tendría si no se da respuesta al problema que enfrenta. Un buen tip para este momento es preguntar por las consecuencias, esta palabra llevará al cliente a pensar con detenimiento sobre la necesidad de dar solución.
-        .row.justify-center
+        .row
           hr.modif_11
           .col-12.col-lg-1.mb-3.mb-lg-0.align-items-center
-             figure.justify-center
+             figure.d-flex.justify-content-center
               img.img90(src='@/assets/curso/tema6/t6-17.svg' alt='AvatarTop')
           .col-12.col-lg-11.d-flex.align-items-center
             p.mb-0 <b>Necesidad de solución:</b> se deberán formular preguntas que sugieran al cliente cómo el producto que se está ofreciendo puede satisfacer la necesidad que se tiene en el momento. Se  debe presentar el producto como la solución.
@@ -297,31 +297,31 @@
     
     .row.mb-5.justify-content-center(data-aos="zoom-in-up")
       .col-12.col-md-10
-        .row.justify-center
+        .row
           hr.modif_11
           .col-12.col-lg-1.mb-3.mb-lg-0.align-items-center
-             figure.justify-center
+             figure.d-flex.justify-content-center
               img.img90(src='@/assets/curso/tema6/t6-19.svg' alt='AvatarTop')
           .col-12.col-lg-11.d-flex.align-items-center
             p.mb-0 <b>Simple:</b> hace referencia a buscar la forma de que todos los procesos asociados a la venta sean claros y fáciles.
-        .row.justify-center
+        .row
           hr.modif_11
           .col-12.col-lg-1.mb-3.mb-lg-0.align-items-center
-             figure.justify-center
+             figure.d-flex.justify-content-center
               img.img90(src='@/assets/curso/tema6/t6-20.svg' alt='AvatarTop')
           .col-12.col-lg-11.d-flex.align-items-center
             p.mb-0 <b>Invaluable:</b> entregarles algo que los clientes valoran mucho, puede ser el servicio o los procesos.
-        .row.justify-center
+        .row
           hr.modif_11
           .col-12.col-lg-1.mb-3.mb-lg-0.align-items-center
-             figure.justify-center
+             figure.d-flex.justify-content-center
               img.img90(src='@/assets/curso/tema6/t6-21.svg' alt='AvatarTop')
           .col-12.col-lg-11.d-flex.align-items-center
             p.mb-0 <b>Alineado con sus intereses:</b> este punto debe asegurar un claro conocimiento del cliente y de sus necesidades, saber que lo que se está ofreciendo es lo que el cliente necesita.
-        .row.justify-center
+        .row
           hr.modif_11
           .col-12.col-lg-1.mb-3.mb-lg-0.align-items-center
-             figure.justify-center
+             figure.d-flex.justify-content-center
               img.img90(src='@/assets/curso/tema6/t6-22.svg' alt='AvatarTop')
           .col-12.col-lg-11.d-flex.align-items-center
             p.mb-0 <b>Prioridad:</b> consiste en hacer comparaciones con el cliente, ayudarle a diferenciar entre lo importante y lo prioritario asociado a las características que requiere y que necesita del servicio. En este proceso se valoran la sinceridad y la flexibilidad del vendedor. 
@@ -385,7 +385,7 @@
 
     .row.mb-5.justify-content-center
       .col-12.col-md-6
-        ImagenInfografica.color-acento-botones.mb-5
+        ImagenInfografica.color-acento-botones.mb-5.modif_16
           template(v-slot:imagen)
             figure
               img(src='@/assets/curso/tema6/t6-27.svg', alt='Texto que describa la imagen')
@@ -412,21 +412,21 @@
       .col-12.col-md-10
         p.text-bold.mb-5 Manejo exitoso de la objeción
         .row.justify-content-center
-          .col-12.col-md-2
+          .col-12.col-md-2.mb-3.mb-md-0
             p.mb-5 <b>Escuchar:</b> no emitir juicios apresurados y prestar completa atención a lo que dice.
-            figure
+            figure.d-flex.justify-content-center
               img.img180(src='@/assets/curso/tema6/t6-29.svg' alt='AvatarTop')
-          .col-12.col-md-2
+          .col-12.col-md-2.mb-3.mb-md-0
             p.mb-5 <b>Anticiparse:</b> se puede ganar tiempo, si se anticipan las posibles objeciones.
-            figure
+            figure.d-flex.justify-content-center
               img.img180(src='@/assets/curso/tema6/t6-30.svg' alt='AvatarTop')
-          .col-12.col-md-2
+          .col-12.col-md-2.mb-3.mb-md-0
             p.mb-5 <b>Comprender:</b> si el cliente percibe empatía por parte del vendedor, sentirá confianza para continuar el proceso de negociación.
-            figure
+            figure.d-flex.justify-content-center
               img.img180(src='@/assets/curso/tema6/t6-31.svg' alt='AvatarTop')
           .col-12.col-md-2
             p.mb-5 <b>Refutar:</b> respeto, paciencia, inteligencia y argumentos son la clave para responder objeciones.
-            figure
+            figure.d-flex.justify-content-center
               img.img180(src='@/assets/curso/tema6/t6-32.svg' alt='AvatarTop')
 
     .row.justify-content-center
@@ -451,19 +451,19 @@
 
     AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul").bgr_2(data-aos="zoom-out-down")
       .row.px-4(titulo="Precio")
-        .col-md-4
+        .col-md-4.mb-3.mb-md-0
           figure
             img(src='@/assets/curso/tema6/t6-34.png', alt='Texto que describa la imagen')
         .col-md-8.mb-4.mb-md-0
           p Será siempre la variable de objeción por excelencia, dado que los clientes siempre querrán pagar menos para obtener los bienes y servicios de la empresa. En algunos casos, la cultura también impacta este tipo de objeciones, lo que comúnmente se llama “regatear”. El manejo de esta objeción se da principalmente en contrarrestar con argumentos desde las características, beneficios y ventajas del producto, así se tratará de mostrar una relación costo - beneficio positiva; en otras ocasiones, cuando el vendedor tiene el perfil de negociar también puede acudir a los descuentos comerciales o financieros para tratar de cerrar la venta.
       .row.px-4(titulo="Comparación con la competencia")
-        .col-md-4
+        .col-md-4.mb-3.mb-md-0
           figure
             img(src='@/assets/curso/tema6/t6-35.png', alt='Texto que describa la imagen')
         .col-md-8.mb-4.mb-md-0
           p Es frecuente que los clientes acudan a comparar la empresa con los competidores, indicando que ellos hacen las cosas mejor, para ello el mecanismo de argumento frente a esto es conocer muy bien la empresa y su oferta de valor (su diferencial en el mercado), con la finalidad de hacer visible porqué la compañía también tiene muchos puntos a favor.
       .row.px-4(titulo="Tiempos de entrega")
-        .col-md-4
+        .col-md-4.mb-3.mb-md-0
           figure
             img(src='@/assets/curso/tema6/t6-36.png', alt='Texto que describa la imagen')
         .col-md-8.mb-4.mb-md-0

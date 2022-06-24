@@ -28,21 +28,18 @@
     AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul").bgr_2(data-aos="zoom-out-down")
       .row(titulo="El cheque")
         .col-md-8.mb-4.mb-md-0.px-5
-          p.mb-0.text-bold El cheque
           p Es un documento a través del cual quien lo emite y firma (llamado girador) le solicita a su entidad financiera (llamada girado) que le entregue al beneficiario (o tomador) el valor específico referenciado, lo que significa que este soporte representa una forma de pagar sin necesidad de tener efectivo. Para que un cheque sea válido debe tener logo del banco, número o consecutivo, la palabra cheque, suma que está representando y la firma de quien lo expide.
         .col-md-4
           figure
             img(src='@/assets/curso/tema7/t7-5.png', alt='Texto que describa la imagen')
       .row(titulo="Los pagarés")
         .col-md-8.mb-4.mb-md-0.px-5
-          p.mb-0.text-bold Los pagarés
           p Son documentos que se firman a favor de un tercero como respaldo de una acreencia, en donde quien contrae la deuda (deudor) se compromete a pagar cierta cantidad de dinero en una fecha específica y usualmente implicando un pago de una tasa de interés aceptada por el firmante. Con el auge del crédito, los pagarés han tomado cada vez más fuerza, ya que las entidades formalizan los compromisos de sus clientes a través de este soporte. Las partes que suelen conformar un pagaré son: la palabra pagaré, fecha de vencimiento, nombre de la persona natural o jurídica propietaria del pagaré y a quien debe cancelarse el dinero adeudado, el importe (valor a pagar) y la firma del deudor.
         .col-md-4
           figure
             img(src='@/assets/curso/tema7/t7-2.png', alt='Texto que describa la imagen')
       .row(titulo="Las letras de cambio")
         .col-md-8.mb-4.mb-md-0.px-5
-          p.mb-0.text-bold Las letras de cambio
           p Son un soporte de cobro que tiene por fin referenciar un valor a pagar en una fecha determinada, la diferencia con el pagaré es que acá intervienen tres agentes en vez de dos como en el caso anterior. En una letra de cambio debe existir el librador (la empresa que emite la deuda), un librado (quien tiene la obligación de pagar) y el tomador (quien se beneficiará del pago). Como característica de este tipo de documento se tiene que usualmente no implica el pago de tasas de interés sino el pago del valor adeudado, lo que quizá haya llevado a que hoy en día no sea tan usado en comparación con los pagarés.
         .col-md-4
           figure
@@ -56,27 +53,23 @@
     AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul").bgr_2(data-aos="zoom-out-down")
       .row(titulo="Las facturas")
         .col-md-12.mb-4.mb-md-0.px-5
-          p.mb-0.text-bold Las facturas
           p Se detalla de manera formal la relación de los productos adquiridos por el cliente, relacionando datos de quién vende, información básica de quién compra, la relación de la cantidad de bienes/servicios adquiridos y el precio pagado por ellos. La utilidad de la factura es que sirve para demostrar que en efecto la transacción ha sido realizada y también es soporte tributario (es decir, para constatar qué tipo y cuantía de impuestos se han pagado). En Colombia para personas jurídicas (empresas) la existencia de la factura es lo que demuestra que efectivamente la operación se ha realizado y por ello siempre genera un efecto contable. 
           p.mb-0 En el año 1995 se le dio la misma validez a la facturación electrónica que a la facturación en papel, en 2005 se dio otro paso con el Decreto 2242 de 2015 donde decía que “la factura electrónica podrá expedirse, aceptarse, archivarse usando cualquier tipo de tecnología disponible, garantizando la autenticidad e integridad desde su expedición y durante todo el tiempo de conservación”. Años más tarde y con el auge de la tecnología, en 2020 a través del Decreto 358 se regulan aspectos en esta materia, estableciendo como obligatorio para todos aquellos que facturan IVA el uso de la facturación electrónica.
       .row(titulo="Las cotizaciones")
         .col-md-12.mb-4.mb-md-0.px-5
-          p.mb-0.text-bold Las cotizaciones
           p Son un documento que entrega una empresa a un cliente para realizar la propuesta económica asociada a un requerimiento, por tanto, adicional a contemplar los datos de la organización y el interesado, se relacionan las cantidades, precios unitarios, impuestos y precios totales. Además, se especifica la validez de la misma, es decir, por cuánto tiempo serán reconocidos esos valores para una negociación; sin embargo, dado que toda cotización no termina en venta, este documento es informativo y no genera registro contable.
       .row(titulo="Las órdenes de compra")
         .col-md-12.mb-4.mb-md-0.px-5
-          p.mb-0.text-bold Las órdenes de compra
           p También conocidas como orden de pedido u orden a cotización, son de suma utilidad, aunque no se utilizan en todas las empresas, dado que en ocasiones se omite este documento y se procede a emitir factura; sin embargo, cuando el producto debe mandarse a producir, a traer de otra zona geográfica o se debe tramitar con un tercero, es importante la utilización de este documento para formalizar que ya el pedido se encuentra en gestión. Asimismo, en las empresas con procesos muy estructurados o en el sector público se suelen utilizar este tipo de formatos para generar trazabilidad en las solicitudes de bienes o servicios. Aquí, se debe detallar las especificaciones, cantidad y precio de cada producto solicitado, así mismo, la fecha, el lugar estimado de entrega y la forma de pago.
       .row(titulo="Las notas débito y crédito")
         .col-md-12.mb-4.mb-md-0.px-5
-          p.mb-0.text-bold Las notas débito y crédito
           p En términos contables, las notas débito o crédito son documentos comerciales con carácter legal que constituyen ajustes contables de la empresa con el cliente, ya sea por un error previo o por una variación en las condiciones, lo que en unos casos generará mayores cobros y en otros menores. La nota débito es emitida para aumentar un valor a pagar por el cliente sobre una factura emitida previamente, por tanto, esto genera un mayor valor a cobrar en el saldo que esté pendiente. Por su parte, la nota crédito puede en términos sencillos entenderse como un saldo a favor del cliente, el cual puede ser consecuencia de una garantía, un producto no entregado o un faltante en cantidades; también se usan para anular una factura. Tanto en la nota débito como en la nota crédito se debe especificar los datos completos de la empresa y el cliente, el consecutivo del documento, el concepto que da lugar a la transacción (relacionando detalle, cantidad y precio/valor), el número de la factura que se corrige, la fecha de emisión y por supuesto el valor total de la nota.
 
     p.text-bold Los contratos en Colombia
     p.mb-5 Los contratos son documentos de formalización que aplican cuando se adquiere un bien o servicio que tenga asociados pagos recurrentes o cuando se van a generar relaciones comerciales entre dos agentes. Tienen como características que:
 
     .row.mb-5
-      .col-12.col-md-4
+      .col-12.col-md-4.mb-3.mb-md-0
         figure
           img(src='@/assets/curso/tema7/t7-3.png', alt='Texto que describa la imagen')
       .col-12.col-md-8
@@ -107,7 +100,7 @@
       p.mb-0 Antes de entrar a revisar los aspectos a considerar en el diligenciamiento de un contrato es importante mencionar que con el auge de las transacciones digitales, en muchos casos ya no se requiere la impresión de los documentos, ya que este proceso puede realizarse utilizando diferentes canales tecnológicos; sin embargo, cabe referenciar algunas consideraciones respecto a la firma de contratos impresos. 
  
     .row.mb-5
-      .col-12.col-md-8
+      .col-12.col-md-8.mb-3.mb-md-0
         p.mb-0.text-bold Documentos impresos: 
         p se sugiere sean generados a computador (para mayor claridad) y entregados para firma en dos tenores (es decir, un ejemplar para cada una de las partes). Asimismo, que sean diligenciados en letra negra, referenciando muy bien la fecha en que se celebra y sin dejar espacios en blanco. Es importante realizar la validación sobre si quien firma realmente tiene facultades (poder) para hacerlo, en el caso de personas naturales quien lo firma es quien está aceptando las condiciones del servicio y en términos generales deben ser personas mayores de 18 años. En el caso de personas jurídicas (empresas) debe ser el representante legal (gerente) o un apoderado (una persona a la cual legalmente se le ha concedido esa autorización).
         p.mb-0 Para documentos no impresos se debe tener en cuenta que en Colombia existen tres tipos de firmas, y que dependiendo del tipo de soporte o de la empresa con la que se realice la transacción se solicitará una u otra, véalas a continuación:

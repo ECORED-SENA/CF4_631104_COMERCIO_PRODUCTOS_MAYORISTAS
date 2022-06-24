@@ -236,20 +236,31 @@
     .slyder-a__btn--atrs
       background-color: #4A2EFC
       background-image: url("../assets/componentes/arrow1.svg") 
+      @media screen and (max-width: 420PX)
+        width: 30px
+        height: 30px
     .slyder-a__btn--sigt
       background-color: #4A2EFC
       background-image: url("../assets/componentes/arrow1.svg")
+      @media screen and (max-width: 420PX)
+        width: 30px
+        height: 30px
     .slyder-a__bullets__item--active
       background-color: #4A2EFC !important
       border-color: #4A2EFC 
     .slyder-a__bullets__item
       background-color: #AFA0FF
+      @media screen and (max-width: 420PX)
+        margin: 0 2px
   &_32
     background-color: #FFE14C
+    border-radius: 10px
   &_33
     background-color: #BAF2E9
+    border-radius: 10px
   &_34
     background-color: #F5CDC2
+    border-radius: 10px
   &_35
     background-color: #D3F9F2
   &_36
@@ -287,7 +298,8 @@
     background-color: #DBFFFA
     &:hover
       background-color: #00E7BF
- 
+  &_42
+    background-color: #DBFFFA 
 .bg_grad-01
   position: relative
   .row
@@ -306,12 +318,15 @@
     background-repeat: no-repeat
     background-size: contain
     @media screen and (max-width: 992px)
-      top: 24px
+      top: 0
+      left: 11%
+      width: 78%
+      border-radius: 10px
     @media screen and (max-width: 420px)
       border-radius: 20px
-      width: 100%
-      height: 100%
-      left: 0
+      width: 390px
+      height: 780px
+      left: -11px
       top: -16px
 .bg_grad-02
   position: relative
@@ -360,9 +375,9 @@
       height: 96px
     @media screen and (max-width: 420px)
       width: 41%
-      height: 14%
+      height: 19%
       left: 0
-      top: -16px
+      top: 0px
 .bg_grad-04
   position: relative
   p
@@ -385,8 +400,8 @@
       height: 96px
     @media screen and (max-width: 420px)
       width: 41%
-      height: 14%
-      left: 0
+      height: 18%
+      left: -14px
       top: -16px
 .bg_grad-05
   position: relative
@@ -410,9 +425,9 @@
       height: 96px
     @media screen and (max-width: 420px)
       width: 41%
-      height: 14%
+      height: 25%
       left: 0
-      top: -16px
+      top: 0px
 .bg_grad-06
   position: relative
   p
@@ -435,9 +450,9 @@
       height: 96px
     @media screen and (max-width: 420px)
       width: 41%
-      height: 14%
+      height: 25%
       left: 0
-      top: -16px
+      top: 0px
 //MARGIN Y PADDING PERSONALIZADO//
 .mrg
   margin-top: 150px
@@ -564,6 +579,13 @@
     margin-top: 24px
   &_12
     width: 68%
+    @media screen and (max-width: 992px)
+      width: 100%
+    @media screen and (max-width: 420px)
+      width: 90%;
+      right: 18px;
+      top: -18px;
+        
   &_13
     top: 30px !important
   &_14
@@ -571,6 +593,15 @@
     &:hover
       transform: scale(1.1)
       transform: translateY(-30px)
+  &_15
+    .tabs-b__tab
+      filter: grayscale(1)
+    .tabs-b__tab--active
+      filter: grayscale(0)
+  &_16
+    .img-infografica__card
+      width: 372px
+      top: -167px
 //TARJETA UP TEMA 1//
 .tarjetas-up
   overflow: hidden
@@ -586,18 +617,23 @@
     bottom: -58%
     i:last-child
       display: none
+    @media screen and (max-width: 420px)
+      bottom: -62%
   &:hover
     .tarjetas-up_card
       bottom: -15%
+      @media screen and (max-width: 420px)
+        bottom: -29%
     i:first-child
       display: none
     i:last-child
       display: block
+    
 //CLASES REEMPLAZADAS//
-.horizontal-scroll
-  align-items: stretch !important
 .tarjeta.color-primario *
   color: #12263F
+.tarjeta.color-primario
+  background-color: #ACFFF0
 .etiqueta
   color: #12263F
   background-color: #FFD400

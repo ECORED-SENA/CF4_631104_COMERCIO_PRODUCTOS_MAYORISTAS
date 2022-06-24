@@ -36,29 +36,25 @@
     AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul").bgr_2(data-aos="zoom-out-down")
       .row(titulo="Responder rápidamente")
         .col-md-8.mb-4.mb-md-0.px-5
-          p.mb-0.text-bold Responder rápidamente
           p El tiempo es algo que es cada vez más valorado por los clientes, por tanto, se debe tratar de optimizar el uso del mismo, para ello hay dos claves: el conocimiento de los procesos de la organización y el apoyo de la tecnología.
         .col-md-4
           figure
             img(src='@/assets/curso/tema4/t4-3.png', alt='Texto que describa la imagen')
       .row(titulo="Cumplir lo que se promete ")
         .col-md-8.mb-4.mb-md-0.px-5
-          p.mb-0.text-bold Cumplir lo que se promete 
           p Esto se basa en la premisa “prometa menos y entregue más”, aunque en cualquier escenario siempre la empresa deberá garantizar a los clientes desde todas las perspectivas (producto, personal, tiempo, etc) que aquello que ofrece es lo que realmente entrega.
         .col-md-4
           figure
             img(src='@/assets/curso/tema4/t4-4.png', alt='Texto que describa la imagen')
       .row(titulo="Facilitar las interacciones ")
-        .col-md-8.mb-4.mb-md-0.px-5
-          p.mb-0.text-bold Facilitar las interacciones 
+        .col-md-8.mb-4.mb-md-0.px-5 
           p Es aconsejable proporcionar las interacciones entre canales de forma consistente e integrada, que no parezca que la empresa está creando barreras para que los clientes generen contacto.
 
         .col-md-4
           figure
             img(src='@/assets/curso/tema4/t4-5.png', alt='Texto que describa la imagen')
       .row(titulo="Contactos proactivos ")
-        .col-md-8.mb-4.mb-md-0.px-5
-          p.mb-0.text-bold Contactos proactivos 
+        .col-md-8.mb-4.mb-md-0.px-5 
           p Los clientes valoran positivamente cuando la empresa está pendiente de ellos, indaga sobre sus experiencias con la marca y sus productos, eso sí, en su justa medida, para no caer en lo opuesto y es generar antipatía.
         .col-md-4
           figure
