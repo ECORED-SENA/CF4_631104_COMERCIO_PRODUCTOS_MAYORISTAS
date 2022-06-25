@@ -26,6 +26,7 @@
               .col-md-12.px-4
                 span.mb-0.text-bold.etiqueta_3 01. Inclusión educativa
                 p Consiste en garantizar a los estudiantes el derecho a la educación en igualdad de condiciones bajo criterios de calidad, también es reconocer la diversidad y permitir que cualquier estudiante, independiente de sus características personales o culturales, sea acogido por la institución educativa. La Unesco (2020, p. 8) en su resumen del informe de seguimiento de la educación en el mundo define la inclusión en la educación como “velar porque cada educando se sienta valorado y respetado, y pueda disfrutar de un claro sentido de pertenencia”.
+                p.mb-0 <b>Una inclusión educativa debe propender por:</b> promover la equidad para brindar a cada cual lo que necesita, incentivar la participación de todos los estamentos de la comunidad educativa y trabajar colaborativamente para lograr metas comunes y particulares.
             .row.p-3
               .col-md-12.px-4
                 span.mb-0.text-bold.etiqueta_4 02. Inclusión familiar
@@ -43,7 +44,7 @@
                 span.mb-0.text-bold.etiqueta_7 05. Inclusión social
                 p La CEPAL (2018) define la inclusión social como “el aseguramiento de que todas las personas puedan ejercer sus derechos y garantías, aprovechando sus habilidades y beneficiándose de las oportunidades que se encuentran en su entorno”. En este sentido, no basta con asociar este término solo a los derechos, ya que incluye adicionalmente la posibilidad que las personas puedan tener participación activa en diferentes escenarios.
     
-    .row.justify-content-center
+    .row.justify-content-center(data-aos="flip-down")
       .col-12.col-md-10
         .row.mb-5.bgr_28.p-3
           .col-12.col-md-2
@@ -59,11 +60,12 @@
     #t_5_1.titulo-segundo.color-acento-botones(data-aos="fade-right")
       .h2 5.1  Discapacidad 
 
-    .bg_grad-04
+    .bg_grad-04.ps-0.ps-md-4
+      p Es una de las perspectivas más trabajadas cuando se hace mención a la inclusión.
       p.mb-5 Según la Ley colombiana 762 de 2002, que aprueba la Convención Interamericana para la Eliminación de todas las Formas de Discriminación contra las Personas con Discapacidad, la discapacidad es entendida como “una deficiencia física, mental o sensorial, ya sea de naturaleza permanente o temporal, que limita la capacidad de ejercer una o más actividades esenciales de la vida diaria, que puede ser causada o agravada por el entorno económico y social”, es decir, en línea con lo visto previamente, de alguna manera se podría afirmar que la inclusión es el concepto general y la discapacidad es una especificación técnica y bastante importante que surge dentro de la inclusión. 
 
     .row.mb-5
-      .col-12.col-md-9
+      .col-12.col-md-9(data-aos="fade-up-right")
         p Como se mencionaba previamente, la discapacidad es un tema tan relevante dentro de la inclusión que vale la pena mirarlo en detalle. En el informe Mundial de la Discapacidad de la OMS y del Banco Mundial de 201 se mencionan algunas cifras que ponen de manifiesto la importancia de la discapacidad, a continuación se mencionan como contexto algunas consideraciones:
         .bgr_29.p-4
           ul.lista-ul--color
@@ -76,7 +78,7 @@
             li.mb-2
               i.fas.fa-paper-plane.colr_3
               | El número de personas con discapacidad está creciendo como resultado del envejecimiento de la población y el incremento global de los problemas crónicos de salud.
-      .col-12.col-md-3
+      .col-12.col-md-3(data-aos="fade-up-left")
         figure
           img(src='@/assets/curso/tema5/t5-3.png', alt='Texto que describa la imagen')
 
@@ -87,7 +89,7 @@
       .tarjeta.bgr_30.p-4
         .row.justify-content-center.mb-3
           .col-12.col-md-5.mb-3.mb-md-0
-            p.mb-0.text-bold Personas en situación discapacidad visual: 
+            p.mb-0.text-bold Personas en situación discapacidad visual 
             p.mb-0 Este tipo de discapacidad se manifiesta en la persona por la pérdida total o parcial del sentido de la vista. Existen diferentes grados de pérdida de la vista, por lo que también en este grupo de personas se encuentran diferencias.  Algunos protocolos de atención y servicio, que pueden ser de utilidad para un vendedor de ventas mayoristas en el momento de interactuar con personas en situación de discapacidad visual son:
           .col-12.col-md-5
             figure
@@ -120,8 +122,8 @@
       .tarjeta.bgr_30.p-4
         .row.justify-content-center.mb-4
           .col-12.col-md-7.mb-3.mb-md-0
-            p.mb-0.text-bold Personas en situación de discapacidad auditiva: 
-            p.mb-0 las consecuencias de la sordera (término que engloba cualquier tipo de pérdida auditiva) variarán de una persona a otra dependiendo no solo del grado, edad de adquisición y tipo de sordera, sino de otros factores contextuales que imprimen características diferenciales tales como los núcleos familiares y de escolaridad en donde se construyan sus procesos de identidad, sentido de pertenencia y adquisición de la primera lengua; los cuales no dependen únicamente de las limitaciones biológicas sino de los complejos procesos de relaciones sociales y culturales, de resistencias y acomodaciones que enmarcan las vidas de las personas en situación de discapacidad auditiva.
+            p.mb-0.text-bold Personas en situación de discapacidad auditiva 
+            p.mb-0 Las consecuencias de la sordera (término que engloba cualquier tipo de pérdida auditiva) variarán de una persona a otra dependiendo no solo del grado, edad de adquisición y tipo de sordera, sino de otros factores contextuales que imprimen características diferenciales tales como los núcleos familiares y de escolaridad en donde se construyan sus procesos de identidad, sentido de pertenencia y adquisición de la primera lengua; los cuales no dependen únicamente de las limitaciones biológicas sino de los complejos procesos de relaciones sociales y culturales, de resistencias y acomodaciones que enmarcan las vidas de las personas en situación de discapacidad auditiva.
           .col-12.col-md-5
             figure
               img(src='@/assets/curso/tema5/t5-5.png', alt='Texto que describa la imagen')
@@ -138,7 +140,7 @@
       .tarjeta.bgr_30.p-4
         .row.justify-content-center.mb-4
           .col-12.col-md-7.mb-3.mb-md-0
-            p.mb-0.text-bold Personas con movilidad reducida: 
+            p.mb-0.text-bold Personas con movilidad reducida 
             p.mb-0 Comprende a las personas que tienen limitaciones para moverse o caminar debido a la falta total o parcial de sus piernas. También a aquellas que teniendo sus piernas no tienen movimiento en estas o sus movimientos tienen restricciones que provocan limitaciones para desplazarse por sí mismas, de tal forma que necesitan la ayuda de otra persona o de algún instrumento como silla de ruedas, muletas o prótesis. Se incluyen, además, las personas que tienen limitaciones para desplazarse y que no cuentan con ningún tipo de ayuda, así como a las personas que cojean para caminar y aquellas personas que presentan deficiencias en el movimiento de sus manos y brazos o carecen de uno de estos miembros, se incluyen dentro de este tipo de discapacidad.
           .col-12.col-md-5
             figure
@@ -149,7 +151,7 @@
       .tarjeta.bgr_30.p-4
         .row.justify-content-center.mb-4
           .col-12.col-md-7.mb-3.mb-md-0
-            p.mb-0.text-bold Personas en situación de discapacidad intelectual o menta: 
+            p.mb-0.text-bold Personas en situación de discapacidad intelectual o mental 
             p.mb-0 Hace relación a personas que tuvieron un desarrollo mental incompleto o detenido, lo cual impacta negativamente la realización de sus actividades cotidianas.  En general las personas con discapacidad intelectual, aunque de forma más lenta, pueden llegar a alcanzar completa autonomía para el cuidado personal, en actividades de la vida diaria del hogar, en el manejo de la comunidad y sus servicios y, en el desarrollo de una ocupación productiva de su interés.
           .col-12.col-md-5
             figure

@@ -3,8 +3,6 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p.mb-5 El contar con personal capacitado en ventas, permite la optimización de recursos, contar y valorar su inventario, la importancia radica en el seguimiento, el análisis y la gestión  del mismo. Los conocimientos obtenidos de las evaluaciones de inventario son necesarios para el éxito, ya que ayudan a las empresas a tomar decisiones empresariales más inteligentes y rentables, garantizando así la eficacia en los procesos, fomentando la responsabilidad social en actividades de  adquisición y entrega de productos al mercado con  calidad y sostenibilidad.
-
     .row.justify-content-center
       .col-lg-10.mb-5
         figure

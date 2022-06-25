@@ -37,11 +37,11 @@
       .h2 6.1  Tipos
 
     .row.mb-5
-      .col-12.col-md-8.mb-3.mb-md-0
+      .col-12.col-md-8.mb-3.mb-md-0(data-aos="fade-up-right")
         p Existen diferentes tipos de ventas; sin embargo, para un vendedor de ventas mayoristas es importante conocer dos tipologías, la clasificación asociada al medio por el cual se realizan y las ventas según el tipo de cliente al cual se realiza la venta.
         p.mb-0.text-bold Tipos de ventas según el medio
-        p.mb-0 según el medio a través del cual se realice la venta se encuentran: las ventas presenciales, que son aquellas que se realizan con presencia física del vendedor, son las llamadas ventas tradicionales; ventas telefónicas, son aquellas que se hacen a través de los call center (centros de llamadas) y las ventas en canales digitales, que son aquellas que se realizan a través de plataformas tecnológicas, tales como redes sociales, <em>marketplace</em> (tiendas virtuales) o <em>bot</em> (robots).
-      .col-12.col-md-4
+        p.mb-0 según el medio a través del cual se realice la venta se encuentran: las ventas presenciales, que son aquellas que se realizan con presencia física del vendedor, son las llamadas ventas tradicionales; ventas telefónicas, son aquellas que se hacen a través de los <em>call center</em> (centros de llamadas) y las ventas en canales digitales, que son aquellas que se realizan a través de plataformas tecnológicas, tales como redes sociales, <em>marketplace</em> (tiendas virtuales) o <em>bot</em> (robots).
+      .col-12.col-md-4(data-aos="fade-up-left")
         figure
           img(src='@/assets/curso/tema6/t6-2.png', alt='Texto que describa la imagen')
       
@@ -78,7 +78,7 @@
                   p.mb-0 No aplican para todo tipo de clientes, dada la brecha digital (clientes que no tienen el conocimiento o la confianza para comprar en medios digitales)
 
     p.text-bold Tipos de ventas según el cliente al cual se dirigen los productos 
-    p Este concepto de tipos de ventas según el tipo de cliente comenzó con fuerza en el comercio electrónico; sin embargo, actualmente es utilizado también en el contexto offline. Las ventas Business to Business (conocidas como B2B) son aquellas que realiza una empresa a otra empresa, las ventas Business to Consumer (conocidas como B2C) son las que realiza una empresa al consumidor final, las ventas Business to Government (B2G) son aquellas en las que una empresa vende sus productos al gobierno o a entidades públicas. 
+    p Este concepto de tipos de ventas según el tipo de cliente comenzó con fuerza en el comercio electrónico; sin embargo, actualmente es utilizado también en el contexto offline. Las ventas <em>Business to Business</em> (conocidas como B2B) son aquellas que realiza una empresa a otra empresa, las ventas <em>Business to Consumer</em> (conocidas como B2C) son las que realiza una empresa al consumidor final, las ventas <em>Business to Government</em> (B2G) son aquellas en las que una empresa vende sus productos al gobierno o a entidades públicas. 
     p.mb-5 A modo de ejemplo, se tienen las siguiente situaciones, una empresa de telecomunicaciones vende sus productos a los clientes hogares y a las empresas, en este caso, se indica que dicha compañía vende bajo tipos de ventas B2C y B2B; en un segundo caso, una empresa importadora vende al por mayor equipos de cómputo a distribuidores, por tanto, esta empresa realiza ventas exclusivamente B2B; en un tercer caso, una empresa constructora está dedicada a la construcción de vías, por lo que su cliente es el Estado, en este sentido realiza ventas B2G. 
 
     figure.mb-5(data-aos="zoom-in-up")
@@ -91,11 +91,11 @@
       .h2 6.2 Técnicas
 
     .row.mb-5
-      .col-12.col-md-8.mb-3.mb-md-0
+      .col-12.col-md-8.mb-3.mb-md-0(data-aos="fade-up-right")
         p Existen muchos tipos de técnicas de ventas, no hay una mejor que otra, ya que la selección de la más idónea a utilizar debe realizarse teniendo en cuenta cómo es el modelo comercial de la empresa, con qué tipo de clientes se está tratando y cuál es el tipo de portafolio a ofrecer. Las técnicas con mayor usabilidad en el mercado son:
         p.mb-0.text-bold Técnica de características, beneficios y ventajas
         p.mb-0 Este modelo conocido como CBV en español o FAB (features, advantages and benefits en inglés), es conocido por ser una de las técnicas más sencillas y más prácticas. Dicho modelo consiste en aplicar con el cliente cada una de las variables del acrónimo, ya que de esta manera podrá dar el vendedor un panorama muy amplio, iniciando con el producto y terminando con la descripción de las necesidades que satisface, a continuación se muestran algunos elementos importantes en este modelo.
-      .col-12.col-md-4 
+      .col-12.col-md-4(data-aos="fade-up-left")
         figure
           img(src='@/assets/curso/tema6/t6-3.png', alt='Texto que describa la imagen')
   
@@ -143,7 +143,7 @@
       .col-12.col-md-4
         .bgr_37.p-4.h-100
           p.text-bold Beneficios
-          p.mb-0 podrá tomar las mejores fotos que se pueda imaginar, tiene tanta memoria que no tendrá que borrar fotos, podrá reproducir la música de sus cantantes favoritos y tener acceso al <em>chat</em> cuando quiera.
+          p.mb-0 Podrá tomar las mejores fotos que se pueda imaginar, tiene tanta memoria que no tendrá que borrar fotos, podrá reproducir la música de sus cantantes favoritos y tener acceso al <em>chat</em> cuando quiera.
 
     .row.justify-center.mb-5(data-aos="zoom-out-up").justify-content-center
       .col-12.col-lg-10
@@ -154,7 +154,7 @@
           .bloque-texto-g__texto.p-4.p-lg-4.modif_12
             p.mb-0.text-bold Atención, interés, deseo, acción
             br
-            p.mb-0 El modelo conocido como AIDA en español o (attention, interest, desire and action en inglés), también se ha denominado la técnica de los “estados mentales”, ya que acude a la emocionalidad en su discurso. Al igual que en el modelo anterior, el acróstico define cuál es la estructura del modelo, a continuación se describe cada uno de ellos. 
+            p.mb-0 El modelo conocido como AIDA en español o (<em>attention, interest, desire and action</em> en inglés), también se ha denominado la técnica de los “estados mentales”, ya que acude a la emocionalidad en su discurso. Al igual que en el modelo anterior, el acróstico define cuál es la estructura del modelo, a continuación se describe cada uno de ellos. 
     
     .row.mb-5.justify-content-center(data-aos="zoom-in-up")
       .col-12.col-md-10
@@ -231,7 +231,7 @@
           .bloque-texto-g__texto.p-4.p-lg-4.modif_1
             p.mb-0.text-bold Situación, problema, implicación, necesidad
             br
-            p.mb-0 El modelo más conocido como SPIN (o de situation, problem, implication y need pay off por sus siglas en inglés) es una táctica de ventas interesante porque se basa en la resolución de problemas al cliente, y esto es bastante lógico si se parte del concepto que las necesidades están creadas y que justamente el rol del mercadeo y las ventas es satisfacerlas. Nuevamente, las preguntas aparecen como la clave para la buena aplicación del modelo, conozca a continuación la descripción de cada una de las etapas.
+            p.mb-0 El modelo más conocido como SPIN (o de <em>situation, problem, implication y need pay off</em> por sus siglas en inglés) es una táctica de ventas interesante porque se basa en la resolución de problemas al cliente, y esto es bastante lógico si se parte del concepto que las necesidades están creadas y que justamente el rol del mercadeo y las ventas es satisfacerlas. Nuevamente, las preguntas aparecen como la clave para la buena aplicación del modelo, conozca a continuación la descripción de cada una de las etapas.
 
     .row.mb-5.justify-content-center(data-aos="zoom-in-up")
       .col-12.col-md-10
@@ -293,7 +293,7 @@
           )
           .bloque-texto-g__texto.p-4.p-lg-4
             p.mb-0.text-bold Simple, invaluable, alineado con sus intereses, de prioridad 
-            p.mb-0 la técnica de ventas más conocida como SNAP (en inglés simple, invaluable, align and priority) es un modelo que se enfoca en la efectividad, ya que se centra en “ponerse en la camiseta del cliente” y está dirigido principalmente a las personas que tienen la facultad de decidir si hacen la compra, observe a continuación los elementos importantes: 
+            p.mb-0 la técnica de ventas más conocida como SNAP (en inglés <em>simple, invaluable, align and priority</em>) es un modelo que se enfoca en la efectividad, ya que se centra en “ponerse en la camiseta del cliente” y está dirigido principalmente a las personas que tienen la facultad de decidir si hacen la compra, observe a continuación los elementos importantes: 
     
     .row.mb-5.justify-content-center(data-aos="zoom-in-up")
       .col-12.col-md-10
@@ -353,11 +353,11 @@
       .h2 6.3 Objeciones
 
     .row.mb-5
-      .col-12.col-md-9.d-flex.align-items-center 
+      .col-12.col-md-9.d-flex.align-items-center(data-aos="fade-up-right")
         div
           p Para un vendedor es muy importante conocer sobre objeciones, dado que al interactuar con el cliente este probablemente manifieste no entender lo que se le está explicando, tener dudas o incluso, requerir más información, es por ello que surgen las objeciones. Existen muchas interpretaciones de lo que es una objeción en ventas. Algunos autores consideran que hacen parte del proceso normal de ventas; sin embargo, hay otros que indican que la presencia de objeciones puede denotar desconocimiento por parte de alguno de los dos agentes (vendedor o cliente); a pesar de no existir consenso en por qué se dan, sí es claro que es un tema clave que un vendedor debe conocer.
           p.mb-0 A continuación se enuncian dos definiciones de objeciones de autores y una propia:
-      .col-12.col-md-3
+      .col-12.col-md-3(data-aos="fade-up-left")
         figure
           img(src='@/assets/curso/tema6/t6-23.png' alt='AvatarTop')
     
@@ -390,7 +390,7 @@
             figure
               img(src='@/assets/curso/tema6/t6-27.svg', alt='Texto que describa la imagen')
           .tarjeta.bgr_40.p-3(x="42%" y="63%" numero="")
-            p <b>Objeciones verdaderas:</b> Se presentan cuando el cliente está realmente interesado en el tema a tratar; sin embargo, manifiesta inquietudes o dudas respecto a la información que se le está suministrando y si las respuestas realmente satisfacen las necesidades que él tiene, por lo que busca canalizarlas a través del vendedor.
+            p <b>Objeciones verdaderas:</b> se presentan cuando el cliente está realmente interesado en el tema a tratar; sin embargo, manifiesta inquietudes o dudas respecto a la información que se le está suministrando y si las respuestas realmente satisfacen las necesidades que él tiene, por lo que busca canalizarlas a través del vendedor.
             p.mb-0 <b>Ejemplo:</b> un cliente desea adquirir un lote de computadores portátiles; sin embargo, le comenta a su vendedor de productos mayoristas que no está seguro de cerrar la negociación porque le preocupan los tiempos de entrega dado que el producto es importado. Esta es una objeción verdadera porque muestra conocimiento del proceso por parte del cliente y porque está haciendo relación a una variable crítica (entrega del producto).
           .tarjeta.bgr_40.p-3(x="92%" y="63%" numero="")
             p <b>Objeciones falsas:</b> se dan cuando el cliente no está interesado en la información o en el producto, y por ende basa la comunicación en pretextos o cuestionamientos sin racionalidad, con el fin de dispersar la conversación o no manifestar la razón real por la que no desea adquirir los productos de la empresa o no desea tener relación comercial con ella.
@@ -438,7 +438,7 @@
           .col-12.col-md-10
             p Con base en el manejo de objeciones planteado por Navarro, M. (2012) en su libro Técnicas de ventas, p. 63.
             a.boton.me-3.indicador__container.bgr_41(
-              :href="obtenerLink('downloads/prueba.pdf')"
+              :href="obtenerLink('downloads/tecnicas_de_venta.pdf')"
               target="_blank"
               type="application/pdf"
               @mouseover="mostrarIndicador = false"

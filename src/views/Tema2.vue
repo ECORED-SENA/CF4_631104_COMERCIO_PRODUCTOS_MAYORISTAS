@@ -43,7 +43,7 @@
             figure
               img(src='@/assets/curso/tema2/t2-4.png', alt='Texto que describa la imagen')
      
-    p.mb-5 A modo de referente, Bogotá Emprende (Secretaria de Desarrollo Económico de Bogotá- Cámara de Comercio de Bogotá, 2010) plantea las reglas de oro en materia de etiqueta empresarial, las cuales tienen por fin dar algunas pautas para los equipos de trabajo, las cuales se muestran en la siguiente figura:
+    p.mb-5 A modo de referente, Bogotá Emprende (Secretaría de Desarrollo Económico de Bogotá- Cámara de Comercio de Bogotá, 2010) plantea las reglas de oro en materia de etiqueta empresarial, las cuales tienen por fin dar algunas pautas para los equipos de trabajo, las cuales se muestran en la siguiente figura:
 
     .row.justify-content-center(data-aos="zoom-out-down")
       .col-12.col-md-8

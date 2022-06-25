@@ -7,7 +7,7 @@
         span 1
       h1 Mezcla de mercadeo
     
-    p.mb-5 No puede hacerse mención a la mezcla de mercadeo sin antes conocer el concepto de mercadeo, mercadotecnia o marketing en inglés. Kotler y Armstrong (2007) definen el mercadeo como <b>“el proceso mediante el cual las compañías crean valor para los clientes y establecen relaciones estrechas con ellos, para recibir a cambio valor de los clientes” (p. 4)</b>, de acuerdo con esta definición, el mercadeo es el proceso responsable de generar las estrategias necesarias para garantizar la venta de los productos apuntando a la sostenibilidad de la compañía, por ende, es el área a cuyo cargo se encuentra el diseño e implementación de las acciones necesarias para satisfacer las necesidades de los clientes de la forma más asertiva y rentable posible y por tanto, el proceso de mercadeo de una empresa se convierte para los vendedores en el responsable de entregarles los insumos necesarios para realizar una buena gestión con los clientes. 
+    p.mb-5 No puede hacerse mención a la mezcla de mercadeo sin antes conocer el concepto de mercadeo, mercadotecnia o <em>marketing</em> en inglés. Kotler y Armstrong (2007) definen el mercadeo como <b>“el proceso mediante el cual las compañías crean valor para los clientes y establecen relaciones estrechas con ellos, para recibir a cambio valor de los clientes” (p. 4)</b>, de acuerdo con esta definición, el mercadeo es el proceso responsable de generar las estrategias necesarias para garantizar la venta de los productos apuntando a la sostenibilidad de la compañía, por ende, es el área a cuyo cargo se encuentra el diseño e implementación de las acciones necesarias para satisfacer las necesidades de los clientes de la forma más asertiva y rentable posible y por tanto, el proceso de mercadeo de una empresa se convierte para los vendedores en el responsable de entregarles los insumos necesarios para realizar una buena gestión con los clientes. 
 
     .row.justify-center.mb-5(data-aos="zoom-out-up").justify-content-center
       .col-12.col-lg-10
@@ -52,7 +52,7 @@
           figure.d-flex.justify-content-center
             img.img300(src='@/assets/curso/tema1/t1-6.png', alt='Texto que describa la imagen')
         .col-12.col-md-8.col-lg-5.p-md-2.p-lg-4.d-flex.align-items-center(data-aos="fade-left")
-          p.mb-0 Y es en este contexto del mercado donde surge la mezcla de mercadeo (marketing mix en inglés) o las famosas cuatro P´s (producto, precio, plaza y promoción), la cual representa la base conceptual para la implementación de las estrategias de mercadeo, que fueron creadas por <b>Jerome McCarthy</b> alrededor del año <b>1970</b> y, son cuatro variables sobre las cuales se fundamenta el quehacer del proceso de mercadeo dentro de las empresas, en este sentido, el reto para las personas de mercadeo es encontrar la mejor combinación posible, asegurando que las cuatro P`s se incorporen en el día a día de la gestión comercial de la compañía.   
+          p.mb-0 Y es en este contexto del mercado donde surge la mezcla de mercadeo (<em>marketing</em> mix en inglés) o las famosas cuatro P´s (producto, precio, plaza y promoción), la cual representa la base conceptual para la implementación de las estrategias de mercadeo, que fueron creadas por <b>Jerome McCarthy</b> alrededor del año <b>1970</b> y, son cuatro variables sobre las cuales se fundamenta el quehacer del proceso de mercadeo dentro de las empresas, en este sentido, el reto para las personas de mercadeo es encontrar la mejor combinación posible, asegurando que las cuatro P`s se incorporen en el día a día de la gestión comercial de la compañía.   
     
     p.mb-5 Las variables (cuatro P´s) que conforman la mezcla de mercadeo son: 
 
@@ -98,7 +98,7 @@
       SlyderA(tipo="b")
         .row
           .col-md-6.mb-4.mb-md-0.p-4
-            h4 Productos tangibles: 
+            h4 Productos tangibles 
             p Es la definición clásica del producto, constituyen aquellos bienes que se pueden tocar. Tienen por fin satisfacer una necesidad o un gusto. Su proceso de comparación se da detallando las: 
             p <b>Características intrínsecas:</b> es decir, aquellas que son internas y que están asociadas a la producción del bien, por ejemplo, el peso, forma, color, tamaño.
             p.mb-0 <b>Características extrínsecas:</b> que son las externas que se observan fácilmente, tales como empaque, marca, precio. El proceso de decisión de compra suele ser mucho más corto frente a otro tipo de tipología de productos.
@@ -107,28 +107,28 @@
               img(src='@/assets/curso/tema1/t1-10.png', alt='Texto que describa la imagen')
         .row
           .col-md-6.mb-4.mb-md-0.p-4
-            h4 Productos intangibles:  
+            h4 Productos intangibles  
             p Representan los servicios, es decir, aquellos productos que no se pueden tocar, se caracterizan porque entregan a quien los adquiere un beneficio, su nivel de evaluación puede ser un tanto subjetivo ya que depende de las expectativas que tenga cada cliente. En los intangibles el proceso para la adquisición puede ser más largo que el asociado a los productos tangibles, dado que no es tan sencillo el proceso de comparación.
           .col-md-6.p-4
             figure
               img(src='@/assets/curso/tema1/t1-11.png', alt='Texto que describa la imagen')
         .row
           .col-md-6.mb-4.mb-md-0.p-4
-            h4 Productos tipo marcas:  
+            h4 Productos tipo marcas  
             p Con la creciente relevancia de los conceptos aspiracionales y moda surgen las marcas como un tipo de producto más dentro del mercadeo. Hoy pensar en Nike, Adidas, Iphone, Samsung, Diesel, entre muchas otras, muestran cómo las marcas son clave para los procesos de mercadeo, llegando incluso al concepto de mercadear una marca.
           .col-md-6.p-4
             figure
               img(src='@/assets/curso/tema1/t1-12.png', alt='Texto que describa la imagen')
         .row
           .col-md-6.mb-4.mb-md-0.p-4
-            h4 Productos tipo personas:    
+            h4 Productos tipo personas    
             p Actualmente grandes figuras de la política, el deporte, el entretenimiento e incluso los YouTuber son ejemplos de cómo es posible mercadear una persona, por ejemplo, imagínese ¿cuánto cobra Sofía Vergara por ser la voz en una película de Disney?, ¿cuánto dinero genera Messi o Ronaldo por aparecer en un comercial?, ¿cuánto cobra un cantante de reguetón por autorizar el uso de su nombre en una colección de ropa?, la respuesta exacta no se sabe; sin embargo, sí se puede asegurar que son millones de dólares o euros (según sea el caso) y todo eso gracias al poder de su marca personal.
           .col-md-6.p-4
             figure
               img(src='@/assets/curso/tema1/t1-13.png', alt='Texto que describa la imagen')
         .row
           .col-md-6.mb-4.mb-md-0.p-4
-            h4 Productos tipo lugares:   
+            h4 Productos tipo lugares   
             p Los sitios asociados a diferentes áreas temáticas (culturales, deportivos, religiosos, de entretenimiento) son también importantes para el mercadeo, ya que son valorados positivamente por los consumidores, quienes están dispuestos a pagar en algunos casos incluso importantes sumas de dinero por conocer o visitar dichos lugares. Algunos ejemplos son la entrada al museo del Louvre en Francia, entrada a La Bombonera en Argentina, entrada al Museo del Oro en Bogotá. 
           .col-md-6.p-4
             figure
@@ -165,7 +165,7 @@
           .tarjeta-slide__contenedor
             .tarjeta-slide__contenido.p-5.p-md-3.p-xl-5.my-5.my-md-2
               p.mb-5.text-bold Especialidad
-              p.mb-0 constituye aquellos bienes y servicios en los que hay un proceso riguroso de búsqueda de opciones y hay poco interés en sustituir el producto, ya sea por términos de marca o aspiracionales. Con frecuencia están relacionados con bienes de lujo, de tecnología. Ejemplo: perfumes, relojes de marca, celulares.
+              p.mb-0 Constituye aquellos bienes y servicios en los que hay un proceso riguroso de búsqueda de opciones y hay poco interés en sustituir el producto, ya sea por términos de marca o aspiracionales. Con frecuencia están relacionados con bienes de lujo, de tecnología. Ejemplo: perfumes, relojes de marca, celulares.
             .tarjeta-slide__img.d-none.d-md-flex(:style="{'background-image': `url(${require('@/assets/curso/tema1/t1-17.png')})`}")
             .tarjeta-slide__img.d-flex.d-md-none(:style="{'background-image': `url(${require('@/assets/curso/tema1/t1-17-1.png')})`}")
       .col-12.col-md-3.col-sm-6.col-xl-3.mb-4.mb-xl-0(data-aos="fade-down")
@@ -222,6 +222,10 @@
 
     .row.justify-content-center(data-aos="zoom-out-down")
       .col-12.col-md-8
+        .titulo-sexto.color-acento-contenido.mb-5
+          h5 Tabla 1
+          span Algunas monedas de circulación mundial.
+
         .tabla-a.color-acento-contenido.mb-5.modif_24
           table.bgr_11
             caption.text-center Nota. Relación de factores en la manipulación de mercancías o pedidos.   
@@ -233,7 +237,7 @@
             tbody
               tr
                 td.bgr_12.text-bold.text-center 
-                  p.mb-0.text-bold Persona al Producto
+                  p.mb-0.text-bold Peso colombiano
                 td.ps-3.ps-md-4.bgr_13 Colombia
                 td.bgr_14.text-bold.text-center 
                   p.mb-0.text-bold COP
@@ -249,12 +253,6 @@
                 td.ps-3.ps-md-4.bgr_13 Alemania, Francia, Italia, España, Bélgica, Grecia, Austria, Irlanda, Finlandia, Portugal, Eslovaquia, Malta, Países Bajos, Chipre.
                 td.bgr_14.text-bold.text-center 
                   p.mb-0.text-bold EUR
-              tr
-                td.bgr_12.text-bold.text-center 
-                  p.mb-0.text-bold Persona al Producto
-                td.ps-3.ps-md-4.bgr_13 Colombia
-                td.bgr_14.text-bold.text-center 
-                  p.mb-0.text-bold COP
               tr
                 td.bgr_12.text-bold.text-center 
                   p.mb-0.text-bold Peso chileno
@@ -296,7 +294,7 @@
             figure
               img(src='@/assets/curso/tema1/t1-22.svg', alt='Texto que describa la imagen')
           .col-12.col-md-8
-            p.mb-0 En la fórmula el precio representa el valor a cobrar al cliente; el costo total representa el costo al cual le entregan la mercancía al mayorista y el margen es el porcentaje que se espera ganar con la venta del producto. Con los siguientes ejemplos se entenderá mejor el concepto:
+            p.mb-0 En la fórmula el <b>precio</b> representa el valor a cobrar al cliente; el <b>costo total</b> representa el costo al cual le entregan la mercancía al mayorista y <b>el margen</b> es el porcentaje que se espera ganar con la venta del producto. Con los siguientes ejemplos se entenderá mejor el concepto:
     
 
     TabsB.color-acento-contenido.mb-5.modif_15(data-aos="fade-right")
@@ -306,7 +304,7 @@
             figure
               img(src='@/assets/curso/tema1/t1-23.png', alt='Texto que describa la imagen')
           .col-md-5.mb-4.mb-md-0
-            p la distribuidora Hermanos Jaramillo S.A.S. importa de China mascarillas (tapabocas) y el costo total de cada mascarilla después de pagarle a su proveedor chino y los aranceles (impuestos asociados) es de COP $150. Ellos proyectan vender sus mascarillas a las farmacias del departamento, esperando tener un margen del 40%, ¿cuál es el precio al cual los vendedores deben vender cada mascarilla?
+            p La distribuidora Hermanos Jaramillo S.A.S. importa de China mascarillas (tapabocas) y el costo total de cada mascarilla después de pagarle a su proveedor chino y los aranceles (impuestos asociados) es de COP $150. Ellos proyectan vender sus mascarillas a las farmacias del departamento, esperando tener un margen del 40%, ¿cuál es el precio al cual los vendedores deben vender cada mascarilla?.
             p.mb-0.text-bold Precio = COP $150 / (1- 0.40) = COP $250.
             p.text-bold Según el resultado obtenido cuando los vendedores vayan a cada farmacia deben vender cada mascarilla en COP $250.
       .py-4.py-md-5(titulo="Caso 2" :icono="require('@/assets/curso/tema1/t1-25.svg')")
@@ -315,7 +313,7 @@
             figure
               img(src='@/assets/curso/tema1/t1-24.png', alt='Texto que describa la imagen')
           .col-md-5.mb-4.mb-md-0
-            p Tecnología XYZ vende computadores a los colegios privados, para lo cual importa equipos de Corea del Sur. Para el mes de abril de 2022 tuvieron un costo total para cada computador de COP $1.200.000, esperando tener un margen del 28%. De acuerdo con esta información ¿cuál es el precio que debe cobrar el vendedor por cada computador en los colegios que visitan?
+            p Tecnología XYZ vende computadores a los colegios privados, para lo cual importa equipos de Corea del Sur. Para el mes de abril de 2022 tuvieron un costo total para cada computador de COP $1.200.000, esperando tener un margen del 28%. De acuerdo con esta información ¿cuál es el precio que debe cobrar el vendedor por cada computador en los colegios que visitan?.
             p.mb-0.text-bold Precio = COP $1.200.000 / (1- 0.28) = COP $1.666.666,67
             p.text-bold Según el resultado obtenido cuando los vendedores vayan a cada institución educativa deben vender cada equipo en COP $1.666.666,67. 
             p.mb-0 En este ejercicio es importante tener en cuenta que en las ventas mayoristas cada peso cuenta, por lo que en este tipo de escenarios debe contemplarse incluso los decimales, dado que como son ventas por volumen cada peso impacta la negociación total.
@@ -423,13 +421,13 @@
                 .position-relative
                   .modif_7
                   p #[strong C. Bonificación promocional:]  
-                  p Se aplican a los distribuidores como una forma de impulsar que éstos participen en programas publicitarios que tengan por fin promocionar la marca o el producto.
+                  p Se aplican a los distribuidores como una forma de impulsar que estos participen en programas publicitarios que tengan por fin promocionar la marca o el producto.
             .row.p-3
               .col-md-12.px-4
                 .position-relative
                   .modif_8
                   p #[strong D. Descuentos estacionales:]  
-                  p Donocidos también como descuentos de temporada, se entregan en épocas en las cuales hay baja rotación del producto.
+                  p Conocidos también como descuentos de temporada, se entregan en épocas en las cuales hay baja rotación del producto.
             .row.p-3
               .col-md-12.px-4
                 .position-relative
@@ -461,7 +459,7 @@
     #t_1_3.titulo-segundo.color-acento-botones(data-aos="fade-right")
       .h2 1.3  Plaza
 
-    p.mb-5 En algunos libros es  llamada también distribución, es la variable de la mezcla de mercadeo (marketing mix) responsable de hacer que el producto llegue a las manos del cliente. Como consecuencia de este concepto, surgen los canales de distribución como aquellos medios que utilizan las empresas para gestionar el proceso de entrega del producto.  A continuación va a ver los canales de distribución existentes:
+    p.mb-5 En algunos libros es  llamada también distribución, es la variable de la mezcla de mercadeo (<em>marketing mix</em>) responsable de hacer que el producto llegue a las manos del cliente. Como consecuencia de este concepto, surgen los canales de distribución como aquellos medios que utilizan las empresas para gestionar el proceso de entrega del producto.  A continuación va a ver los canales de distribución existentes:
 
     .row.mb-5.justify-content-center
       .col-12.col-md-10
@@ -512,7 +510,7 @@
 
     .row.mb-5.justify-content-center
       .col-12.col-md-5.mb-3.mb-md-0(data-aos="fade-right")
-        p.text-bold.mb-0.etiqueta_1.text-center.p-3 Estrategia de distribución pull (jalar) 
+        p.text-bold.mb-0.etiqueta_1.text-center.p-3 Estrategia de distribución <em>pull</em> (jalar) 
         figure
           img(src='@/assets/curso/tema1/t1-32.png', alt='Texto que describa la imagen')
         div.p-5.bgr_21
@@ -520,7 +518,7 @@
           p <b>01.</b> Que los distribuidores que no tienen el producto en su portafolio lo incluyan. 
           p.mb-0 <b>02.</b> Que se tengan mayores ventas si el producto ya hace parte de lo que ofrece el distribuidor.
       .col-12.col-md-5(data-aos="fade-left")
-        p.text-bold.mb-0.etiqueta_2.text-center.p-3 Estrategia de distribución push (empujar)  
+        p.text-bold.mb-0.etiqueta_2.text-center.p-3 Estrategia de distribución <em>push</em> (empujar)  
         figure
           img(src='@/assets/curso/tema1/t1-33.png', alt='Texto que describa la imagen')
         div.p-5.bgr_22
@@ -544,7 +542,7 @@
         .row.justify-content-center
           .col-md-10.mb-4.mb-md-0
             p.mb-0.text-bold Propaganda
-            p es similar a la publicidad, porque consiste en la forma impersonal de estimular la demanda o de influir en la opinión o actitud de un grupo hacia la empresa, a través de una comunicación en medios masivos, la gran diferencia es que usualmente no es pagada por la empresa u organización que se beneficia con ella. Usualmente la propaganda tiene un tinte más asociado a religión, política, opiniones o doctrinas, y no tiene un tinte tan comercial como sí lo tiene la publicidad.
+            p Es similar a la publicidad, porque consiste en la forma impersonal de estimular la demanda o de influir en la opinión o actitud de un grupo hacia la empresa, a través de una comunicación en medios masivos, la gran diferencia es que usualmente no es pagada por la empresa u organización que se beneficia con ella. Usualmente la propaganda tiene un tinte más asociado a religión, política, opiniones o doctrinas, y no tiene un tinte tan comercial como sí lo tiene la publicidad.
             p.mb-0.text-bold Precio = COP $150 / (1- 0.40) = COP $250.
             p.text-bold Según el resultado obtenido cuando los vendedores vayan a cada farmacia deben vender cada mascarilla en COP $250.
             .row.mt-5.justify-content-center
@@ -558,7 +556,7 @@
         .row.justify-content-center
           .col-md-10.mb-4.mb-md-0
             p.mb-0.text-bold Publicidad
-            p es quizá lo más utilizado por las empresas dentro de la promoción, ya que según la estrategia puede dar alcance a cuatro objetivos: informar (dar a conocer algo), persuadir (disuadir para que se realice una acción) o recordar (mantener en la mente de los clientes una marca o un producto). Es un mecanismo de comunicación no personal que es pagado por una empresa con el fin de presentar y promocionar productos. El reto de la publicidad consiste en llegar a la mayor cantidad de personas al costo más bajo posible. 
+            p Es quizá lo más utilizado por las empresas dentro de la promoción, ya que según la estrategia puede dar alcance a cuatro objetivos: informar (dar a conocer algo), persuadir (disuadir para que se realice una acción) o recordar (mantener en la mente de los clientes una marca o un producto). Es un mecanismo de comunicación no personal que es pagado por una empresa con el fin de presentar y promocionar productos. El reto de la publicidad consiste en llegar a la mayor cantidad de personas al costo más bajo posible. 
             .row.mb-3(data-aos="zoom-in-up")
               .col-12
                 .row
@@ -599,7 +597,7 @@
         .row.justify-content-center
           .col-md-10.mb-4.mb-md-0
             p.mb-0.text-bold Relaciones públicas
-            p conocidas por sus siglas como RRPP, son todas aquellas acciones encaminadas en entablar buenas relaciones con los diversos grupos de interés de la empresa (el Estado, accionistas, periodistas, proveedores, distribuidores, entre otros), con el fin principal de crear buena imagen. Adicional a la imagen, las RRPP pueden ayudar a generar buenas relaciones con la prensa, ayudar en el posicionamiento de productos, despertar el interés por una marca, influir en grupos específicos e incluso generar presión en determinados momentos.
+            p Conocidas por sus siglas como RRPP, son todas aquellas acciones encaminadas en entablar buenas relaciones con los diversos grupos de interés de la empresa (el Estado, accionistas, periodistas, proveedores, distribuidores, entre otros), con el fin principal de crear buena imagen. Adicional a la imagen, las RRPP pueden ayudar a generar buenas relaciones con la prensa, ayudar en el posicionamiento de productos, despertar el interés por una marca, influir en grupos específicos e incluso generar presión en determinados momentos.
             p.mb-0 Las herramientas de las relaciones públicas son las publicaciones, los eventos, los patrocinios, los discursos y entrevistas, las noticias y comunicados.
               
 

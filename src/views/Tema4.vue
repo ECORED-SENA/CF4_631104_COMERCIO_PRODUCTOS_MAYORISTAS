@@ -14,11 +14,11 @@
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
     .row.mb-5
-      .col-12.col-md-8
+      .col-12.col-md-8(data-aos="fade-right")
         p.mb-0.text-bold Protocolos de atención al cliente
         p De acuerdo con lo expuesto previamente es importante tener en cuenta que los protocolos hacen parte de la gestión integral al cliente, ya que son la herramienta principal para que cada colaborador conozca el grado de responsabilidad que tiene al momento de interactuar con cada cliente. 
         p Los protocolos de servicio al cliente reflejan el conjunto de reglas que debe seguir un colaborador de la empresa en el momento de interactuar con un cliente, en cuanto a la forma de comunicación que debe mantener, los procesos de interacción, dependiendo de la necesidad del cliente y el trato que debe mantener durante la interacción. 
-      .col-12.col-md-4 
+      .col-12.col-md-4(data-aos="fade-left")
         figure
           img(src='@/assets/curso/tema4/t4-1.png', alt='Texto que describa la imagen')
     
@@ -60,7 +60,7 @@
           figure
             img(src='@/assets/curso/tema4/t4-6.png', alt='Texto que describa la imagen')
   
-    .bgr_7.p-4
+    .bgr_7.p-4(data-aos="flip-up")
       p.mb-0.text-bold Protocolos de atención al cliente
       p.mb-0 En resumen, una buena atención al cliente está enfocada en ir más allá en cada una de las interacciones con el cliente, independiente del canal por donde se realice (presencial, teléfono, medios electrónicos), lo verdaderamente importante es que el personal de la empresa logre generar en el cliente experiencias memorables, para que sienta mayor cercanía con la marca, con el producto y se convierta en un cliente fiel a la organización y siempre la prefiera por encima de otras del mismo ramo. 
 
