@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="CF4 - 631104 Comercio de productos mayoristas" />
+              <option name="title_text" value="Actividad did&amp;#225;ctica" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1174,6 +1174,22 @@
       <string id="keyboardshortcuts_lower">Atajos de teclado</string>
       <string id="zoom_to_fit">Habilitar zoom del navegador</string>
       <string id="accessible_text">Texto accesible</string>
+      <string id="modern_video_captions_on">Activado</string>
+      <string id="modern_video_captions_off">Desactivado</string>
+      <string id="modern_video_settings_close">cerrar ajustes de video</string>
+      <string id="modern_video_playback_settings">Ajustes de reproducción del video</string>
+      <string id="acc_modern_video_volume">volumen del video</string>
+      <string id="acc_modern_video_fullscreen">video a pantalla completa</string>
+      <string id="modern_video_normal_speed">Normal</string>
+      <string id="acc_modern_video_playback_speed">velocidad de reproducción</string>
+      <string id="modern_video_playback_speed_title">Velocidad de reproducción</string>
+      <string id="modern_video_captions_label">Subtítulos</string>
+      <string id="acc_modern_video_settings">ajustes del video</string>
+      <string id="acc_modern_video_captions">subtítulos del video</string>
+      <string id="acc_modern_video_pip">miniatura video</string>
+      <string id="acc_modern_video_pause">pausar video</string>
+      <string id="acc_modern_video_play">reproducir video</string>
+      <string id="acc_modern_video_mute">silenciar video</string>
       <string id="acc_definition">definición</string>
       <string id="definition">Definición</string>
       <string id="search_results">Resultados de la búsqueda</string>
@@ -1278,16 +1294,14 @@
         <slidelink slideid="_player.6g8RcXIVtvA" displaytext="Nuevo Presentación de Microsoft PowerPoint" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6g8RcXIVtvA.6GrUdUpuerp" displaytext="Diapositiva sin título" expand="false" type="slide" />
-            <slidelink slideid="_player.6g8RcXIVtvA.6SVzdn0sZsC" displaytext="Verdadero/Falso" expand="false" type="slide" />
-            <slidelink slideid="_player.6g8RcXIVtvA.5gG79znnKej" displaytext="Verdadero/Falso" expand="false" type="slide" />
-            <slidelink slideid="_player.6g8RcXIVtvA.6gaOPeXKk29" displaytext="Verdadero/Falso" expand="false" type="slide" />
-            <slidelink slideid="_player.6g8RcXIVtvA.5eMpVVhChfC" displaytext="Verdadero/Falso" expand="false" type="slide" />
-            <slidelink slideid="_player.6g8RcXIVtvA.5lgU8lBuSBB" displaytext="Verdadero/Falso" expand="false" type="slide" />
-            <slidelink slideid="_player.6g8RcXIVtvA.64NBHuWuwj3" displaytext="Verdadero/Falso" expand="false" type="slide" />
-            <slidelink slideid="_player.6g8RcXIVtvA.5lZEeLMrmUt" displaytext="Verdadero/Falso" expand="false" type="slide" />
-            <slidelink slideid="_player.6g8RcXIVtvA.63WA0vUjrQV" displaytext="Verdadero/Falso" expand="false" type="slide" />
-            <slidelink slideid="_player.6g8RcXIVtvA.5lQSODGdIVQ" displaytext="Verdadero/Falso" expand="false" type="slide" />
-            <slidelink slideid="_player.6g8RcXIVtvA.65hj0uwenBI" displaytext="Verdadero/Falso" expand="false" type="slide" />
+            <slidelink slideid="_player.6g8RcXIVtvA.6l9uEfvW8wq" displaytext="Las cuatro variables de la mezcla de mercadeo son:" expand="false" type="slide" />
+            <slidelink slideid="_player.6g8RcXIVtvA.621oraiKSmM" displaytext="La técnica de ventas que consiste en mostrar las características, beneficios y ventajas de un producto se conoce como:" expand="false" type="slide" />
+            <slidelink slideid="_player.6g8RcXIVtvA.5tfVSOVHQCn" displaytext="El tipo de venta que representa menores costos para la empresa es:" expand="false" type="slide" />
+            <slidelink slideid="_player.6g8RcXIVtvA.6H8aSqPIQKn" displaytext="Las ventas en las cuales la relación comercial se orienta en la venta al consumidor final se denominan:" expand="false" type="slide" />
+            <slidelink slideid="_player.6g8RcXIVtvA.6bzySplyWaE" displaytext="El ciclo de la venta representa en orden secuencial los siguientes momentos:" expand="false" type="slide" />
+            <slidelink slideid="_player.6g8RcXIVtvA.6Ni4Okhapcv" displaytext="En una empresa, el proceso responsable de generar las estrategias para la venta del producto se conoce como:" expand="false" type="slide" />
+            <slidelink slideid="_player.6g8RcXIVtvA.643iLJnCZAj" displaytext="Las ventas en las cuales la relación comercial se orienta en la venta a otras empresas se denominan:" expand="false" type="slide" />
+            <slidelink slideid="_player.6g8RcXIVtvA.6lLQETC3InP" displaytext="El tipo de discapacidad donde las personas tienen dificultad para realizar algún esfuerzo físico se conoce como:" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
