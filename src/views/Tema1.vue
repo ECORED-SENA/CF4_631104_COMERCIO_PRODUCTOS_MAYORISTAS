@@ -181,7 +181,7 @@
     p.mb-5 <b>Productos de producción:</b> en esta clasificación se incluyen todos los bienes que serán utilizados para procesarlos o transformarlos usualmente con fines comerciales. Los productos de producción se clasifican en: 
 
     .row.justify-content-center
-      .col-lg-3.mb-3(data-aos="fade-up")
+      .col-lg-4.col-xl-3.mb-3(data-aos="fade-up")
         .tarjetas-up(@mouseover="mostrarIndicador = false")
           .indicador--hover(v-if="mostrarIndicador")
           img(src='@/assets/curso/tema1/t1-19.png' alt='AvatarTop' style='width:400px')
@@ -192,7 +192,7 @@
                 i.fas.fa-caret-down.fa-2x.me-3
               h4.mb-0 Industriales
             p Son aquellos productos tangibles que son necesarios para realizar el proceso productivo en volumen y de forma tecnificada, obedece en especial a máquinas, aparatos especializados. Ejemplo: horno, banda transportadora.
-      .col-lg-3.mb-3(data-aos="fade-down")
+      .col-lg-4.col-xl-3.mb-3(data-aos="fade-down")
         .tarjetas-up(@mouseover="mostrarIndicador = false")
           .indicador--hover(v-if="mostrarIndicador")
           img(src='@/assets/curso/tema1/t1-20.png' alt='AvatarTop' style='width:400px')
