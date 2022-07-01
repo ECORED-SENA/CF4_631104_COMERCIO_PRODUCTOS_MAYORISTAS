@@ -62,7 +62,7 @@
               th.bgr_25.text-bold.text-center Puntualidad
               td.ps-3.ps-md-4.bgr_26 Cumplir a la hora acordada y aplicar este criterio en todo (reuniones, eventos, entregas).
             tr
-              th.bgr_25.text-bold.text-center Discresión
+              th.bgr_25.text-bold.text-center Discreción
               td.ps-3.ps-md-4.bgr_26 Implica saber guardar la información de la empresa e incluso temas de orden personal.
             tr
               th.bgr_25.text-bold.text-center Amabilidad

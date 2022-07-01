@@ -220,13 +220,6 @@ export default {
       tipo: 'Diccionario en línea',
       link: 'https://dle.rae.es/objeci%C3%B3n',
     },
-    {
-      tema: 'Objeciones',
-      referencia: 'Navarro, M. (2012). Técnicas de ventas. Red Tercer Milenio.',
-      tipo: 'Libro digital',
-      link:
-        'https://www.academia.edu/22896902/T%C3%A9cnicas_de_ventas_MARIANA_ELIZABETH_NAVARRO_MEJIA',
-    },
   ],
   glosario: [
     {

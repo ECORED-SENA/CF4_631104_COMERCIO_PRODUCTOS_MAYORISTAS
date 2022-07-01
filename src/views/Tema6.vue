@@ -94,7 +94,7 @@
       .col-12.col-md-8.mb-3.mb-md-0(data-aos="fade-up-right")
         p Existen muchos tipos de técnicas de ventas, no hay una mejor que otra, ya que la selección de la más idónea a utilizar debe realizarse teniendo en cuenta cómo es el modelo comercial de la empresa, con qué tipo de clientes se está tratando y cuál es el tipo de portafolio a ofrecer. Las técnicas con mayor usabilidad en el mercado son:
         p.mb-0.text-bold Técnica de características, beneficios y ventajas
-        p.mb-0 Este modelo conocido como CBV en español o FAB (features, advantages and benefits en inglés), es conocido por ser una de las técnicas más sencillas y más prácticas. Dicho modelo consiste en aplicar con el cliente cada una de las variables del acrónimo, ya que de esta manera podrá dar el vendedor un panorama muy amplio, iniciando con el producto y terminando con la descripción de las necesidades que satisface, a continuación se muestran algunos elementos importantes en este modelo.
+        p.mb-0 Este modelo conocido como CBV en español o FAB (<em>features, advantages and benefits</em> en inglés), es conocido por ser una de las técnicas más sencillas y más prácticas. Dicho modelo consiste en aplicar con el cliente cada una de las variables del acrónimo, ya que de esta manera podrá dar el vendedor un panorama muy amplio, iniciando con el producto y terminando con la descripción de las necesidades que satisface, a continuación se muestran algunos elementos importantes en este modelo.
       .col-12.col-md-4(data-aos="fade-up-left")
         figure
           img(src='@/assets/curso/tema6/t6-3.png', alt='Texto que describa la imagen')
@@ -121,7 +121,7 @@
              figure.d-flex.justify-content-center
               img.img90(src='@/assets/curso/tema6/t6-6.svg' alt='AvatarTop')
           .col-12.col-lg-11.d-flex.align-items-center
-            p.mb-0 En beneficios, el interrogante a resolver es el para qué, es decir, qué es aquello (tangible o intangible) que obtendrá la persona o empresa que adquiera el producto .
+            p.mb-0 En beneficios, el interrogante a resolver es el para qué, es decir, qué es aquello (tangible o intangible) que obtendrá la persona o empresa que adquiera el producto.
 
     .row.mb-5.justify-content-center
       .col-12.col-md-3.mb-3.mb-md-0
@@ -210,7 +210,7 @@
             .row.p-4
               .col-md-12.p-3
                 p.mb-0.text-bold Acción
-                p.mb-0 Indíqueme si está de acuerdo con esta oferta y si a partir del próximo pedido lo dimensionamos como una compra al por mayor para que genere los ahorros que le e stoy mencionando.
+                p.mb-0 Indíqueme si está de acuerdo con esta oferta y si a partir del próximo pedido lo dimensionamos como una compra al por mayor para que genere los ahorros que le estoy mencionando.
 
     .row.justify-content-center
       .col-12.col-md-10
@@ -255,7 +255,7 @@
              figure.d-flex.justify-content-center
               img.img90(src='@/assets/curso/tema6/t6-16.svg' alt='AvatarTop')
           .col-12.col-lg-11.d-flex.align-items-center
-            p.mb-0 <b>En la implicación:</b> el foco de este momento es indagar sobre la importancia que tiene para el cliente este acontecimiento, qué pasa si se resuelve y qué efectos tendría si no se da respuesta al problema que enfrenta. Un buen tip para este momento es preguntar por las consecuencias, esta palabra llevará al cliente a pensar con detenimiento sobre la necesidad de dar solución.
+            p.mb-0 <b>En la implicación:</b> el foco de este momento es indagar sobre la importancia que tiene para el cliente este acontecimiento, qué pasa si se resuelve y qué efectos tendría si no se da respuesta al problema que enfrenta. Un buen <em>tip</em> para este momento es preguntar por las consecuencias, esta palabra llevará al cliente a pensar con detenimiento sobre la necesidad de dar solución.
         .row
           hr.modif_11
           .col-12.col-lg-1.mb-3.mb-lg-0.align-items-center
@@ -345,7 +345,7 @@
                 p.mb-0 Alineado con los intereses: el vendedor le indica que tendrá débito automático de su cuota de manejo y que tendrá filas preferenciales en los bancos de la entidad.
             .row.p-4
               .col-md-12.p-3
-                p.mb-0 Prioridad: el vendedor le indica al cliente que la mejor opción para él es la tarjeta clásica donde el cupo es bajito, por lo que no le afectará mucho su capacidad de endeudamiento. Además, como entiende los horarios debido a su labor docente le informa que le recogerán los documentos donde él indique para gestionar el proceso de adquisición .
+                p.mb-0 Prioridad: el vendedor le indica al cliente que la mejor opción para él es la tarjeta clásica donde el cupo es bajito, por lo que no le afectará mucho su capacidad de endeudamiento. Además, como entiende los horarios debido a su labor docente le informa que le recogerán los documentos donde él indique para gestionar el proceso de adquisición.
     
     separador
 
@@ -356,7 +356,7 @@
       .col-12.col-md-9.d-flex.align-items-center(data-aos="fade-up-right")
         div
           p Para un vendedor es muy importante conocer sobre objeciones, dado que al interactuar con el cliente este probablemente manifieste no entender lo que se le está explicando, tener dudas o incluso, requerir más información, es por ello que surgen las objeciones. Existen muchas interpretaciones de lo que es una objeción en ventas. Algunos autores consideran que hacen parte del proceso normal de ventas; sin embargo, hay otros que indican que la presencia de objeciones puede denotar desconocimiento por parte de alguno de los dos agentes (vendedor o cliente); a pesar de no existir consenso en por qué se dan, sí es claro que es un tema clave que un vendedor debe conocer.
-          p.mb-0 A continuación se enuncian dos definiciones de objeciones de autores y una propia:
+          p.mb-0 A continuación, se enuncian dos definiciones de objeciones de autores y una propia:
       .col-12.col-md-3(data-aos="fade-up-left")
         figure
           img(src='@/assets/curso/tema6/t6-23.png' alt='AvatarTop')

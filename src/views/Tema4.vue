@@ -31,7 +31,7 @@
           .bloque-texto-g__texto.p-4.p-lg-4.modif_12
             p.mb-0 En pocas palabras, la función principal del protocolo es actuar como un manual de proceso, el cual le va a permitir a la compañía propender por una estandarización en la forma cómo se relaciona con los clientes, porque garantizará un trato coherente, efectivo y cordial. Usualmente, estos protocolos son elaborados por las áreas de servicio al cliente o mercadeo y son socializados con todos los empleados, propiciando su apropiación y aplicación constante; sin embargo, hay algunas características que deberían considerar los colaboradores cuando interactúan con los clientes para lograr una buena atención al cliente. 
     
-    p.mb-5 A continuación se mencionan algunas tácticas para tener una buena atención al cliente, ya no con alcance en las personas como previamente se realizó, sino desde la perspectiva del proceso:
+    p.mb-5 A continuación, se mencionan algunas tácticas para tener una buena atención al cliente, ya no con alcance en las personas como previamente se realizó, sino desde la perspectiva del proceso:
 
     AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul").bgr_2(data-aos="zoom-out-down")
       .row(titulo="Responder rápidamente")
@@ -42,7 +42,7 @@
             img(src='@/assets/curso/tema4/t4-3.png', alt='Texto que describa la imagen')
       .row(titulo="Cumplir lo que se promete ")
         .col-md-8.mb-4.mb-md-0.px-5
-          p Esto se basa en la premisa “prometa menos y entregue más”, aunque en cualquier escenario siempre la empresa deberá garantizar a los clientes desde todas las perspectivas (producto, personal, tiempo, etc) que aquello que ofrece es lo que realmente entrega.
+          p Esto se basa en la premisa “prometa menos y entregue más”, aunque en cualquier escenario siempre la empresa deberá garantizar a los clientes desde todas las perspectivas (producto, personal, tiempo, etc.) que aquello que ofrece es lo que realmente entrega.
         .col-md-4
           figure
             img(src='@/assets/curso/tema4/t4-4.png', alt='Texto que describa la imagen')

@@ -304,7 +304,7 @@
             figure
               img(src='@/assets/curso/tema1/t1-23.png', alt='Texto que describa la imagen')
           .col-md-5.mb-4.mb-md-0
-            p La distribuidora Hermanos Jaramillo S.A.S. importa de China mascarillas (tapabocas) y el costo total de cada mascarilla después de pagarle a su proveedor chino y los aranceles (impuestos asociados) es de COP $150. Ellos proyectan vender sus mascarillas a las farmacias del departamento, esperando tener un margen del 40%, ¿cuál es el precio al cual los vendedores deben vender cada mascarilla?.
+            p La distribuidora Hermanos Jaramillo S.A.S. importa de China mascarillas (tapabocas) y el costo total de cada mascarilla después de pagarle a su proveedor chino y los aranceles (impuestos asociados) es de COP $150. Ellos proyectan vender sus mascarillas a las farmacias del departamento, esperando tener un margen del 40%, ¿cuál es el precio al cual los vendedores deben vender cada mascarilla?
             p.mb-0.text-bold Precio = COP $150 / (1- 0.40) = COP $250.
             p.text-bold Según el resultado obtenido cuando los vendedores vayan a cada farmacia deben vender cada mascarilla en COP $250.
       .py-4.py-md-5(titulo="Caso 2" :icono="require('@/assets/curso/tema1/t1-25.svg')")
@@ -313,7 +313,7 @@
             figure
               img(src='@/assets/curso/tema1/t1-24.png', alt='Texto que describa la imagen')
           .col-md-5.mb-4.mb-md-0
-            p Tecnología XYZ vende computadores a los colegios privados, para lo cual importa equipos de Corea del Sur. Para el mes de abril de 2022 tuvieron un costo total para cada computador de COP $1.200.000, esperando tener un margen del 28%. De acuerdo con esta información ¿cuál es el precio que debe cobrar el vendedor por cada computador en los colegios que visitan?.
+            p Tecnología XYZ vende computadores a los colegios privados, para lo cual importa equipos de Corea del Sur. Para el mes de abril de 2022 tuvieron un costo total para cada computador de COP $1.200.000, esperando tener un margen del 28%. De acuerdo con esta información ¿cuál es el precio que debe cobrar el vendedor por cada computador en los colegios que visitan?
             p.mb-0.text-bold Precio = COP $1.200.000 / (1- 0.28) = COP $1.666.666,67
             p.text-bold Según el resultado obtenido cuando los vendedores vayan a cada institución educativa deben vender cada equipo en COP $1.666.666,67. 
             p.mb-0 En este ejercicio es importante tener en cuenta que en las ventas mayoristas cada peso cuenta, por lo que en este tipo de escenarios debe contemplarse incluso los decimales, dado que como son ventas por volumen cada peso impacta la negociación total.
@@ -478,9 +478,9 @@
                   | Se caracteriza por no tener intermediarios.
               div.p-2.p-md-4
                 p.text-bold Ejemplos
-                p.mb-0 <b>a.</b>Tenderos en sus tiendas.
-                p.mb-0 <b>b.</b>Una emprendedora que comercializa sus productos en su tienda virtual. 
-                p.mb-0 <b>c.</b>Contadora que vende sus servicios a sus familiares.
+                p.mb-0 <b>a.</b> Tenderos en sus tiendas.
+                p.mb-0 <b>b.</b> Una emprendedora que comercializa sus productos en su tienda virtual. 
+                p.mb-0 <b>c.</b> Contadora que vende sus servicios a sus familiares.
           .row(titulo="Canal de distribución indirecto")
             .col-lg-12.mb-4.mb-lg-0
               ul.lista-ul--color

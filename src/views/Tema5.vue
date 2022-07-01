@@ -194,7 +194,7 @@
             img(src='@/assets/curso/tema5/t5-11.png', alt='Texto que describa la imagen')
       .row(titulo="5. Ley 1098 de 2006 (Código de la Infancia y la Adolescencia)")
         .col-md-8.mb-4.mb-md-0.px-5
-          p En su Artículo 202,hace mención a los objetivos de las políticas públicas, definiendo que se debe “Diseñar y poner en marcha acciones para lograr la inclusión de la población infantil más vulnerable a la vida social en condiciones de igualdad”. Este es un punto interesante, ya que pone de manifiesto un aspecto clave de la inclusión social, relacionado con la prioridad que deben tener los niños (as) en la sociedad.
+          p En su Artículo 202, hace mención a los objetivos de las políticas públicas, definiendo que se debe “Diseñar y poner en marcha acciones para lograr la inclusión de la población infantil más vulnerable a la vida social en condiciones de igualdad”. Este es un punto interesante, ya que pone de manifiesto un aspecto clave de la inclusión social, relacionado con la prioridad que deben tener los niños (as) en la sociedad.
         .col-md-4
           figure
             img(src='@/assets/curso/tema5/t5-12.png', alt='Texto que describa la imagen')
@@ -210,9 +210,9 @@
         .col-md-4
           figure
             img(src='@/assets/curso/tema5/t5-14.png', alt='Texto que describa la imagen')
-      .row(titulo="8. Reglamentación Conpes 166 de 2013")
+      .row(titulo="8. Reglamentación CONPES 166 de 2013")
         .col-md-8.mb-4.mb-md-0.px-5
-          p En Colombia existe un ente denominado Consejo Nacional de Política Económica y Social (CONPES), el cual representa una entidad de planeación y organismo asesor para el gobierno. Dicha entidad elabora documentos que sirven como lineamiento de política pública, y en esta ocasión con el Conpes 166 de 2013 se plantean unas estrategias para que Colombia avance en temas de inclusión social y discapacidad, con el fin de fomentar la igualdad en las oportunidades y la calidad de vida de la población con discapacidad. Las perspectivas que aborda este Conpes son: la transformación de lo público, implementando el Observatorio Nacional de Discapacidad – OND e incluyendo a esta población en la información de estudios económicos y sociales con carácter nacional; estrategias para la garantía jurídica con el fin de impedir abusos de cualquier índole; escenarios para la participación en la vida política y pública; desarrollo de capacidades y reconocimiento a la diversidad.
+          p En Colombia existe un ente denominado Consejo Nacional de Política Económica y Social (CONPES), el cual representa una entidad de planeación y organismo asesor para el gobierno. Dicha entidad elabora documentos que sirven como lineamiento de política pública, y en esta ocasión con el CONPES 166 de 2013 se plantean unas estrategias para que Colombia avance en temas de inclusión social y discapacidad, con el fin de fomentar la igualdad en las oportunidades y la calidad de vida de la población con discapacidad. Las perspectivas que aborda este CONPES son: la transformación de lo público, implementando el Observatorio Nacional de Discapacidad – OND e incluyendo a esta población en la información de estudios económicos y sociales con carácter nacional; estrategias para la garantía jurídica con el fin de impedir abusos de cualquier índole; escenarios para la participación en la vida política y pública; desarrollo de capacidades y reconocimiento a la diversidad.
         .col-md-4
           figure
             img(src='@/assets/curso/tema5/t5-15.png', alt='Texto que describa la imagen')
