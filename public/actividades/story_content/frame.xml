@@ -13,7 +13,7 @@
         <options>
           <option name="title_enabled" value="false">
             <options>
-              <option name="title_text" value="Actividad did&amp;#225;ctica" />
+              <option name="title_text" value="cf4-Actividad did&amp;#225;ctica cierre de ventas de productos mayoristas" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1174,22 +1174,6 @@
       <string id="keyboardshortcuts_lower">Atajos de teclado</string>
       <string id="zoom_to_fit">Habilitar zoom del navegador</string>
       <string id="accessible_text">Texto accesible</string>
-      <string id="modern_video_captions_on">Activado</string>
-      <string id="modern_video_captions_off">Desactivado</string>
-      <string id="modern_video_settings_close">cerrar ajustes de video</string>
-      <string id="modern_video_playback_settings">Ajustes de reproducción del video</string>
-      <string id="acc_modern_video_volume">volumen del video</string>
-      <string id="acc_modern_video_fullscreen">video a pantalla completa</string>
-      <string id="modern_video_normal_speed">Normal</string>
-      <string id="acc_modern_video_playback_speed">velocidad de reproducción</string>
-      <string id="modern_video_playback_speed_title">Velocidad de reproducción</string>
-      <string id="modern_video_captions_label">Subtítulos</string>
-      <string id="acc_modern_video_settings">ajustes del video</string>
-      <string id="acc_modern_video_captions">subtítulos del video</string>
-      <string id="acc_modern_video_pip">miniatura video</string>
-      <string id="acc_modern_video_pause">pausar video</string>
-      <string id="acc_modern_video_play">reproducir video</string>
-      <string id="acc_modern_video_mute">silenciar video</string>
       <string id="acc_definition">definición</string>
       <string id="definition">Definición</string>
       <string id="search_results">Resultados de la búsqueda</string>
